@@ -754,3 +754,33 @@ header .intro-text {
 	font-size: 1.2em;
 	line-height: 1.8em;
 }
+
+/* Single Section */
+#single {
+	padding: 100px 0;
+	background: #f6f6f6;
+}
+#single .content-text {
+	margin-top: 1.5em;
+	margin-left: 10px;
+	font-size: 1.2em;
+}
+#single img {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-bottom: 40px;
+}
+#single .single-date {
+	background: rgb(120, 120, 120);
+	color: rgb(255, 255, 255);
+	border-radius: 0.4em;
+	padding: 0.5em 1em;
+	font-style: italic;
+}
+
+#single p {
+	margin-top: 0;
+	margin-bottom: 2.5em;
+	line-height: 2em;
+}

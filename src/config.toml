@@ -3,3 +3,8 @@ title = "Ruben Tan - a technologist's viewpoint"
 languageCode = "en-us"
 publishdir = "../"
 theme = "rubentan"
+
+[taxonomies]
+tag = "tags"
+type = "types"
+series = "series"
