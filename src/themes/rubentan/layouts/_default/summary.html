@@ -1,0 +1,14 @@
+          <li class="timeline-inverted">
+            <div class="timeline-image">
+              <h4>{{ .Date.Format "2 Jan 2006" }}</h4>
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4>Post</h4>
+                <h4 class="subheading"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+              </div>
+              <div class="timeline-body">
+                <p>{{ .Summary }}</p>
+              </div>
+            </div>
+          </li>
