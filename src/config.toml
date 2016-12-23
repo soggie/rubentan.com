@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://rubentan.com/"
 title = "Ruben Tan - a technologist's viewpoint"
 languageCode = "en-us"
 publishdir = "../"
