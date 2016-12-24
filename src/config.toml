@@ -1,5 +1,6 @@
 baseurl = "http://rubentan.com/"
-title = "Ruben Tan - a technologist's viewpoint"
+title = "Ruben Tan - my corner of the internet"
+description = "A corner on the internet for geeky stuff from technology to tabletop gaming"
 languageCode = "en-us"
 publishdir = "../"
 theme = "rubentan"

@@ -32,13 +32,50 @@ The driving factor behind the creation if **Itheas** is that it must be a world 
 Most people are naturally curious when given the right hooks. I don't want my players to _know_ what the world is, and how it came about: I want them to form their own theories. To do this, I struck off the entire history I wrote for **Itheas** and wrote a timeline around four epochs instead:
 
 * **The theft of the sun** - Long ago gods descended upon Itheas and elevated the common men into a powerful empire, and then the gods left and took the sun with them
-* **The cost of sorcery** - The people turned to sorcery and tried to transmute one of the twin moons to replace the stolen sun, but failed horribly, creating the Breach
+* **The cost of sorcery** - The people turned to sorcery to replace the stolen sun, but failed horribly, creating the Breach
 * **The subterranean exodus** - Out comes an army of horrors called the Ashen Horde, forcing humanity underground
 * **The return to surface** - Decades later humanity reconquered the surface with the Golden Host and built seven cities
 
-I had to refrain from fleshing out these four epochs, because I think I have a better way. Playing a ton of [Sunless Sea](http://www.failbettergames.com/sunless/) (_note: Obsidian World was not inspired by Sunless Sea. While the premise of these two settings are similar, the details are vastly different_) taught me a lot of things, and one of them is "show, don't tell".
+By structuring the four epochs these way and then refraining from writing tons of history about each epoch, I left enough blank lines to be filled up by the players' own imaginations. For example:
+
+* Why did the gods left?
+* Did the gods took the sun with malicious intents?
+* How did the people know about sorcery back then?
+* What exactly did they do to fuck up and create the Breach?
+* Where did humanity lived when driven underground?
+* What did they eat and how did they survive underground?
+* What is the Golden Host and how did it formed?
+* How did the people reclaimed the surface?
+* How and why did the seven cities get built?
+
+Playing a ton of [Sunless Sea](http://www.failbettergames.com/sunless/) (_note: Obsidian World was not inspired by Sunless Sea. While the premise of these two settings are similar, the details are vastly different_) taught me a lot of things, and one of them is "show, don't tell".
 
 ### Show, don't tell
 
-Instead of writing down pages after pages of (_boring_) history, I decided to utilize _implications_ peppered into both the setting and game rules instead.
+Here's an example of that philosophy in action. In a city called Crasoa - which is basically a greco-roman inspired city - life revolves around an ancient coliseum where a glowing orb hovers over it, providing light and fire to all within the gigantic building.
 
+Instead of writing down how Crasoa came to be, I created four factions each claiming to be the true stewards of the orb, with their own theories about the true nature of the glowing ball. Additionally, the orb is related to the Breach, and the sorcerers who created it.
+
+Here's a quick overview:
+
+> **The Dawn Guards** - the militant outfit claims the Orb to be a shard of the sun, captured when their ancestors went to war with the gods. Now, they man the seven obelisks surrounding the Orb, defending it at all cost from those who seek to steal or damage it.
+
+Alright with the Dawn Guards, we have an implication that there was a war between humans and gods _before_ the sun was stolen, and a glimpse of what the Orb is.
+
+> **The Scorched Ones** - the scorched ones are mystics who claimed to be direct descendants of a band of sorcerers who gave their lives to sealing the vanguard of the Ashen Horde in the Orb to buy time for humanity to flee into the underworld.
+
+With the Scorched Ones, the Orb takes a more sinister turn. It's the prison of the horrors that drove humanity deep underground. What happens when the Orb is broken then?
+
+> **The Crucible Priests** - the masonry guild who restored the ancient coliseum and built Crasoa around it claims the Orb to be part of a bigger machine buried underneath the coliseum, forged in the times of the old empire to harness the fires of the world's belly for the ultimate creation: life itself.
+
+Awww shiet, now we have a new implication, that there's something underneath the coliseum that nobody knows about, and that the people of the old empire tried to create life. Could this be the reason why the gods left?
+
+> **The Blood Dancers** - the band of gladiators notorious for their flamboyant savagery believes the Orb to be alive and thirsts for bloody spectacles. They slaughter their opponents in gruesome manners to appease the Orb, and when defeated, often tear their guts out in a final flourish for the Orb.
+
+What is a world without blood sacrifices and savagery? The Blood Dancers imply that the Orb is a sentient being, with a penchant for the macabre. What kind of stories can we tell with this?
+
+### Plot hooks come from mysteries
+
+I found that developing a strict canon is not a good idea when building worlds meant to be altered, mutated and chopped up by your players. Rather than putting in long pages of history, I sought to give plot hooks and conflicts instead, with minimal but intriguing ties to the four epochs established as part of the canonical history of the world.
+
+That is how I'll write _Obsidian World_ - filled with mysteries and blanks, waiting for you to fill them up with your own ideas and creativity.
