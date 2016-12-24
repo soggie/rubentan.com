@@ -41,8 +41,8 @@
         <div class="text-center center">
           <hr>
           <p>
-            Article {{ range .Params.types }}[<a href="{{ $baseURL }}types/{{ . | urlize }}">{{ . }}</a>]{{ end }}
-            tagged as {{ range .Params.tags }}[<a href="{{ $baseURL }}tags/{{ . | urlize }}">{{ . }}</a>]{{ end }}
+            Article {{ range .Params.types }} [<a href="{{ $baseURL }}types/{{ . | urlize }}">{{ . }}</a>]{{ end }}
+            tagged as {{ range .Params.tags }} [<a href="{{ $baseURL }}tags/{{ . | urlize }}">{{ . }}</a>]{{ end }}
           </p>
         </div>
       </div>
