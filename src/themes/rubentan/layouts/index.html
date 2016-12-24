@@ -54,7 +54,7 @@
     <div class="row">
       <div class="col-lg-12">
         <ul class="timeline">
-          {{ range first 10 .Data.Pages.ByDate }}
+          {{ range first 10 .Data.Pages }}
             {{ .Render "summary"}}
           {{ end }}
         </ul>

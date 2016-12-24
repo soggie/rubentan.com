@@ -4,7 +4,6 @@ tags=["Reddit","History"]
 types=["Tech"]
 series=["Tech Of My Life"]
 date="2016-12-23"
-summary="Testing"
 +++
 
 What better way to start my blog by writing _test post please ignore_? Alright, strap in kids, time for a little reddit history.
