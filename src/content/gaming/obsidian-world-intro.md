@@ -27,7 +27,7 @@ Unfortunately from my playtestings, nope, most of them can't even remember NPC n
 
 ### A world of mysteries
 
-The driving factor behind the creation if **Itheas** is that it must be a world that intrigues the curious cats. I want my players to be inspired by the lore, to be driven to want to know more about what happened. And the most effective tool to achieve that goal is through _mysteries_.
+The driving factor behind the creation of **Itheas** is that it must be a world that intrigues the curious cats. I want my players to be inspired by the lore, to be driven to want to know more about what happened. And the most effective tool to achieve that goal is through _mysteries_.
 
 Most people are naturally curious when given the right hooks. I don't want my players to _know_ what the world is, and how it came about: I want them to form their own theories. To do this, I struck off the entire history I wrote for **Itheas** and wrote a timeline around four epochs instead:
 
