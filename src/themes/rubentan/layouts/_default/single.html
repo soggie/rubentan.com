@@ -1,4 +1,5 @@
 {{ partial "header.html" . }}
+{{ $baseURL := .Site.BaseURL }}
 
 <!-- Header -->
 <!-- Navigation -->
@@ -36,6 +37,13 @@
       <div class="col-md-8 col-md-offset-2">
         <div class="content-text">
            {{ .Content }}
+        </div>
+        <div class="text-center center">
+          <hr>
+          <p>
+            Article {{ range .Params.types }}[<a href="{{ $baseURL }}types/{{ . | urlize }}">{{ . }}</a>]{{ end }}
+            tagged as {{ range .Params.tags }}[<a href="{{ $baseURL }}tags/{{ . | urlize }}">{{ . }}</a>]{{ end }}
+          </p>
         </div>
       </div>
     </div>
