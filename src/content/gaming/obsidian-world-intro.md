@@ -1,11 +1,11 @@
 +++
-title="Test Post Please Ignore"
-tags=["Reddit","History"]
-series=["Tech Of My Life"]
-date="2016-12-23"
+title="Obsidian World Intro"
+tags=["Design","RPG","Tabletop","Worldbuilding"]
+series=["Obsidian World"]
+date="2016-12-24"
 +++
 
-What better way to start my blog by writing _test post please ignore_? Alright, strap in kids, time for a little reddit history.
+It's been a while since I talked about the RPG (the tabletop kind) that I'm working on, and much have changed since then. Time for a re-introduction!
 
 <!--more-->
 

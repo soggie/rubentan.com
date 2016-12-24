@@ -6,5 +6,4 @@ theme = "rubentan"
 
 [taxonomies]
 tag = "tags"
-type = "types"
 series = "series"

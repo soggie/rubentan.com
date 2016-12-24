@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruben Tan - a technologist&#39;s viewpoint</title>
-    <link>http://rubentan.com/index.xml</link>
+    <link>http://rubentan.com/tags/rpg/index.xml</link>
     <description>Recent content on Ruben Tan - a technologist&#39;s viewpoint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubentan.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubentan.com/tags/rpg/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Obsidian World Intro</title>
@@ -16,21 +15,6 @@
       
       <guid>http://rubentan.com/gaming/obsidian-world-intro/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s been a while since I talked about the RPG (the tabletop kind) that I&amp;rsquo;m working on, and much have changed since then. Time for a re-introduction!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;See, once upon a time, there was a post called &lt;em&gt;Test Post Please Ignore&lt;/em&gt; in reddit, and somehow got upvoted to the moon. No, that&amp;rsquo;d be an understatement. It got so many upvotes that it went straight to the sun, punched a hole through it, tore open a wormhole, and ended up in a parallel dimension stuck in the buttocks of an unfortunate elder god. Our universe is fucked because of this, but hey, it&amp;rsquo;ll be some time before the elder god arrives, but when it does, just remember:&lt;/p&gt;
-
-&lt;p&gt;It was reddit&amp;rsquo;s fault.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Test Post Please Ignore</title>
-      <link>http://rubentan.com/tech/test-post-please-ignore/</link>
-      <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://rubentan.com/tech/test-post-please-ignore/</guid>
-      <description>&lt;p&gt;What better way to start my blog by writing &lt;em&gt;test post please ignore&lt;/em&gt;? Alright, strap in kids, time for a little reddit history.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
