@@ -36,10 +36,10 @@ Most people are naturally curious when given the right hooks. I don't want my pl
 * **The subterranean exodus** - Out comes an army of horrors called the Ashen Horde, forcing humanity underground
 * **The return to surface** - Decades later humanity reconquered the surface with the Golden Host and built seven cities
 
-By structuring the four epochs these way and then refraining from writing tons of history about each epoch, I left enough blank lines to be filled up by the players' own imaginations. For example:
+By structuring the four epochs this way and refraining from writing tons of history about each, I left enough blanks for my players to fill with their own imagination. For example:
 
-* Why did the gods left?
-* Did the gods took the sun with malicious intents?
+* Why did the gods leave?
+* Did the gods steal the sun with malicious intent?
 * How did the people know about sorcery back then?
 * What exactly did they do to fuck up and create the Breach?
 * Where did humanity lived when driven underground?
