@@ -6,8 +6,137 @@
     <description>Recent content in Gaming-rsses on Ruben Tan - my corner of the internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rubentan.com/gaming/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Let&#39;s talk about dice</title>
+      <link>http://rubentan.com/gaming/lets-talk-about-dice/</link>
+      <pubDate>Sun, 25 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubentan.com/gaming/lets-talk-about-dice/</guid>
+      <description>&lt;p&gt;Merry christmas! Today I&amp;rsquo;m going to talk about dice, and specific what led to the inception of the current dice mechanics.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Dice is an important facet in RPG rules. Being a consistent prowler (and mod) of &lt;a href=&#34;https://www.reddit.com/r/rpgdesign&#34;&gt;reddit&amp;rsquo;s /r/rpgdesign sub&lt;/a&gt;, I noticed a lot of designers agonising about dice mechanics, and how it works in the grand scheme of things.&lt;/p&gt;
+
+&lt;p&gt;Yes, designing a proper dice mechanics is hard, so I figured it&amp;rsquo;ll be easier if I focused on just a few things, and stop when I feel like I&amp;rsquo;ve gone far enough.&lt;/p&gt;
+
+&lt;h3 id=&#34;important-aspects-of-dice&#34;&gt;Important aspects of dice&lt;/h3&gt;
+
+&lt;p&gt;Dice rolling provides an angle of luck to your game. Dice is often used as the &amp;ldquo;neutral party&amp;rdquo; when there are disagreements as to how the game should proceed. Here&amp;rsquo;s an example:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;GM decides that the falling boulder is impossible to dodge, but a player insists that his kung fu master with all skill points invested into agility should have a chance, however slim. So instead of spending the next 30 minutes arguing about it, the GM asks the player to roll dice to see what happens.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Not all games are like this, and not all GM-player interactions need to be a competitive one, but dice does provide a neutral ground to decide the direction of the story so if it goes to shit, we can all &lt;strong&gt;blame the dice&lt;/strong&gt; instead of hating each other.&lt;/p&gt;
+
+&lt;p&gt;A good dice mechanics should consider all these aspects:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Probability distribution&lt;/li&gt;
+&lt;li&gt;Number of possible outcomes&lt;/li&gt;
+&lt;li&gt;Modifying dice and dice scores&lt;/li&gt;
+&lt;li&gt;Range of difficulty target&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are more, but for my own purposes, these are enough. Let&amp;rsquo;s go through them one by one.&lt;/p&gt;
+
+&lt;h3 id=&#34;probability-distribution&#34;&gt;Probability distribution&lt;/h3&gt;
+
+&lt;p&gt;I won&amp;rsquo;t rehash what I consider common knowledge in math, so here&amp;rsquo;s an &lt;a href=&#34;http://anydice.com/articles/three-basic-distributions/&#34;&gt;excellent article&lt;/a&gt; explaning it from anydice.&lt;/p&gt;
+
+&lt;p&gt;The takeaway from here is that the flatter the distribution graph, the more &lt;em&gt;random&lt;/em&gt; your dice results are going to be in actual play.&lt;/p&gt;
+
+&lt;p&gt;Take rolling a 1d20 for example (twenty-sided dice). Every time you roll it, there&amp;rsquo;s a 5% chance of getting &lt;em&gt;any&lt;/em&gt; result on the die. This means it&amp;rsquo;s equally probably to roll a 1 or a 20, and the end result in actual play is that when you &lt;em&gt;do&lt;/em&gt; roll those results, it will either lead to players going &lt;em&gt;fuck yeah&lt;/em&gt; (on a 20) or &lt;em&gt;oh hell no&lt;/em&gt; (on a 1).&lt;/p&gt;
+
+&lt;p&gt;Now compare this to rolling 2d10 (two ten-sided dice, roll and add the results). Now the distribution is different: you have a higher chance of rolling 8-14 than 1 or 20. Here&amp;rsquo;s a graph showing the difference:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://glimmthegnome.files.wordpress.com/2011/08/1d20_vs_2d10.png&#34; alt=&#34;2d10 vs 1d20&#34; /&gt;&lt;br&gt;&lt;em&gt;Image taken from &lt;a href=&#34;https://glimmsworkshop.com/2011/08/22/core-mechanics-randomization/&#34;&gt;Glimm&amp;rsquo;s Workshop&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This means that in actual play, most of the results will be around 8-14 range, while rolling 2s (snake eyes) and 20s will be exceedingly rare.&lt;/p&gt;
+
+&lt;p&gt;So what does this all mean?&lt;/p&gt;
+
+&lt;p&gt;From my playtests, players will always choose to roll more dice. The more dice you get to roll, the better you feel about getting the results you want. Since &lt;em&gt;Obsidian World&lt;/em&gt; is not a game about luck and fortune, and the players are supposed to be playing heroes who &lt;em&gt;knows what they are doing most of the time&lt;/em&gt;, I decided to use a dice pool (pick highest) method to ensure that success is more common than failure.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, you roll from 1d6 to 4d6, and pick the highest score. The number of dice is determined by your hero&amp;rsquo;s &lt;strong&gt;method&lt;/strong&gt; (fast, hard, slow, soft), which describes &lt;strong&gt;how&lt;/strong&gt; you do things rather than base it off skills or attributes like most RPGs do.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;number-of-possible-outcomes&#34;&gt;Number of possible outcomes&lt;/h3&gt;
+
+&lt;p&gt;Dice rolls don&amp;rsquo;t always need to yield a binary outcome: success or failure. In Dungeon World, you roll 2d6 (two six-sided dice and add up the results). On 1~6, you fail. 7~9, you succeed, but usually at a cost, or partial success. 10 and more, you succeed at no cost, or with extra effects.&lt;/p&gt;
+
+&lt;p&gt;Some other games (Warhammer Fantasy for example) introduces &lt;em&gt;degrees of failure&lt;/em&gt; and &lt;em&gt;degrees of success&lt;/em&gt;. If you fail, how badly is that failure? If you succeed, how good is your success?&lt;/p&gt;
+
+&lt;p&gt;In my experience, binary results are great when you are expected to do a lot of rolling. In a d20 game lasting about 3 hours, I&amp;rsquo;d expect to get into at least 2 combat encounters, of which in each encounter I&amp;rsquo;m expected to roll up to 10 times on average. Having a binary outcome means the GM can keep a rapid pace when interpreting the dice scores. Fail? You fail, move on. Succeed? Do what the rules say, move on.&lt;/p&gt;
+
+&lt;p&gt;However, binary results aren&amp;rsquo;t that fun when you have shitty luck. I rolled as string of misses once, and felt like a complete fool as my burly warrior, decked to the teeth in weapon and armour, keep missing a &lt;em&gt;prone&lt;/em&gt; target. Our poor GM had a hard time making my failures interesting after the third miss.&lt;/p&gt;
+
+&lt;p&gt;For &lt;em&gt;Obsidian World&lt;/em&gt;, I decided to follow in the footsteps of Dungeon World and Apocalypse World. Dice rolls yield &lt;em&gt;miss&lt;/em&gt; (you don&amp;rsquo;t get what you want), &lt;em&gt;hit&lt;/em&gt; (you get what you want, at a cost), or &lt;em&gt;crit&lt;/em&gt; (you get what you want, and more). Since &lt;em&gt;hits&lt;/em&gt; are the most common outcome, it&amp;rsquo;s possible for me in actual play as a GM to push my players on a heroic journey: every time you want to do something significant, you must think about what you must sacrifice to get there.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, after picking the highest score, add it to your trait (-1 to +2) and intepret the result. On a 1~3, it&amp;rsquo;s a miss - tough luck! On a 4~6, it&amp;rsquo;s a hit - success, but you must give up something you care about, or reduce the effect of your success. On a 7+, it&amp;rsquo;s a crit - you succeed with style!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;modifying-dice-and-dice-scores&#34;&gt;Modifying dice and dice scores&lt;/h3&gt;
+
+&lt;p&gt;A lot of designers go for complicated dice mechanics, and that is something I did once but quickly abandoned when I realise a good dice mechanic should be &lt;em&gt;as simple as possible&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The reason for this is that the simpler your dice roll is, the more stuff you can do with it. Here, we specifically talk about ways to modify dice before rolling them.&lt;/p&gt;
+
+&lt;p&gt;Take for example, a super complicated dice scheme:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Roll a dice pool of step dice based on your attribute, skill and specialisations. Each attribute/skill/specialisation are rated at d4, d6, d8, d10 and d12. Then roll a pool of d6 equal to your wounds + enemy power. Remove matching scores in both dice pools, then remove all unmatched d6 in the second pool. Count successes based on a difficulty target.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Whoa. Ok, might be a bit exaggeration, but I kid you not, there are dice mechanics more complicated than this. It sounds like fun to incorporate all stats on your character sheet into one dice roll, but now you have a problem: how will adding a d10 or removing a d10 affect your probability distribution?&lt;/p&gt;
+
+&lt;p&gt;As always, think about the player. I&amp;rsquo;m rolling d4, 2d6 and 1d10 vs. 3d6. Now I have a one-use per day power that adds a 3d4 to my roll. If I use it, how will it improve my chances? It&amp;rsquo;s impossible to know in actual play.&lt;/p&gt;
+
+&lt;p&gt;Compared to say, rolling a 1d20, and having a skill do +3 to your dice score. Now that&amp;rsquo;s easier: I know that a +3 is a good thing, and if the target is 15, all I need to do is to roll 12 and above and I&amp;rsquo;m good. +3 equals to a +15% increased chance of making it. Easy peasy.&lt;/p&gt;
+
+&lt;p&gt;With a simpler dice scheme, there&amp;rsquo;s so much you can do with it, without sacrificing usability. You can add dice, add bonuses or penalties to the rolled scores, re-roll it, roll two pick highest, etc.&lt;/p&gt;
+
+&lt;p&gt;The bottom line is, the simpler the basic dice roll, the more you can add on top of it without killing your game&amp;rsquo;s usability outright.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, dice modifiers come in two ways: upgrade and downgrades. On an upgrade, you changes a miss to a hit, or a hit to a crit. On a downgrade, you change a crit to a hit, or a hit to a miss.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;range-of-difficulty-targets&#34;&gt;Range of difficulty targets&lt;/h3&gt;
+
+&lt;p&gt;A lot of dice mechanics feature a target number where you have to meet or exceed in order to succeed in your task. Most d20s will have you roll against a target number, while dice pools usually require you to roll a number of successes or a certain pattern.&lt;/p&gt;
+
+&lt;p&gt;My main beef with Dungeon World is the lack of difficulty targets. As a GM, when I present a tough monster, I want the players to know what they&amp;rsquo;re up against. Sure, I read the &lt;a href=&#34;https://www.reddit.com/r/gametales/comments/29tfyg/dungeon_world_scariest_monster_ever_16_hp/?st=ix49xjcx&amp;amp;sh=5cc68477&#34;&gt;16 HP dragon example&lt;/a&gt; and I understand how it works. But that is one specific example that doesn&amp;rsquo;t cover all instances where a difficulty target is actually useful.&lt;/p&gt;
+
+&lt;p&gt;For example, you have a lock on a door. I want this to be a very difficult challenge, because opening it will provide the players a shortcut around some other dangers. The only way to do so in Dungeon World (or any Powered by the Apocalypse games) is to make the player roll multiple times, or something to that effect.&lt;/p&gt;
+
+&lt;p&gt;In cases like these, having the ability to adjust difficulty targets is a godsend for GMs. It&amp;rsquo;s easier for me to craft a tighter narrative that way.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, difficulty comes in 4 steps: 0, -1d, -2d, or -3d. After rolling your dice, remove a number of results equal to the difficulty, starting from the highest to the lowest. Stop when you have removed the stated number of dice, or if you are left with just 1 die score.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;wrapping-it-up&#34;&gt;Wrapping it up&lt;/h3&gt;
+
+&lt;p&gt;Quite a long one &amp;lsquo;aint it? Don&amp;rsquo;t worry, I&amp;rsquo;m done.&lt;/p&gt;
+
+&lt;p&gt;So to recap, I favour these traits when designing &lt;em&gt;Obsidian World&lt;/em&gt;&amp;rsquo;s dice mechanics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Simple basic roll&lt;/li&gt;
+&lt;li&gt;Dice pool (with a max limit)&lt;/li&gt;
+&lt;li&gt;3 possible outcomes: miss, hit, or crit&lt;/li&gt;
+&lt;li&gt;Difficulty numbers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Until next time!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Obsidian World Intro</title>

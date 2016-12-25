@@ -767,10 +767,7 @@ header .intro-text {
 	font-size: 1.2em;
 }
 #single img {
-	width: 200px;
-	height: 200px;
-	display: inline-block;
-	margin-bottom: 40px;
+	text-align: center;
 }
 #single .single-date {
 	background: rgb(120, 120, 120);
