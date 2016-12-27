@@ -48,7 +48,7 @@ So what does this all mean?
 
 From my playtests, players will always choose to roll more dice. The more dice you get to roll, the better you feel about getting the results you want. Since _Obsidian World_ is not a game about luck and fortune, and the players are supposed to be playing heroes who _knows what they are doing most of the time_, I decided to use a dice pool (pick highest) method to ensure that success is more common than failure.
 
-> In _Obsidian World_, you roll from 1d6 to 4d6, and pick the highest score. The number of dice is determined by your hero's **method** (fast, hard, slow, soft), which describes **how** you do things rather than base it off skills or attributes like most RPGs do.
+> In _Obsidian World_, you always roll 3d6, and pick either the lowest/middle/highest based on the situation. The number of dice is determined by your hero's **method** (fast, hard, slow, soft), which describes **how** you do things rather than base it off skills or attributes like most RPGs do.
 
 ### Number of possible outcomes
 
@@ -62,7 +62,7 @@ However, binary results aren't that fun when you have shitty luck. I rolled as s
 
 For _Obsidian World_, I decided to follow in the footsteps of Dungeon World and Apocalypse World. Dice rolls yield _miss_ (you don't get what you want), _hit_ (you get what you want, at a cost), or _crit_ (you get what you want, and more). Since _hits_ are the most common outcome, it's possible for me in actual play as a GM to push my players on a heroic journey: every time you want to do something significant, you must think about what you must sacrifice to get there.
 
-> In _Obsidian World_, after picking the highest score, add it to your trait (-1 to +2) and intepret the result. On a 1~3, it's a miss - tough luck! On a 4~6, it's a hit - success, but you must give up something you care about, or reduce the effect of your success. On a 7+, it's a crit - you succeed with style!
+> In _Obsidian World_, add your die score to your trait (-1 to +2) and intepret the result. On a 1~3, it's a miss - tough luck! On a 4~6, it's a hit - success, but you must give up something you care about, or reduce the effect of your success. On a 7+, it's a crit - you succeed with style!
 
 ### Modifying dice and dice scores
 
@@ -84,7 +84,7 @@ With a simpler dice scheme, there's so much you can do with it, without sacrific
 
 The bottom line is, the simpler the basic dice roll, the more you can add on top of it without killing your game's usability outright.
 
-> In _Obsidian World_, dice modifiers come in two ways: upgrade and downgrades. On an upgrade, you changes a miss to a hit, or a hit to a crit. On a downgrade, you change a crit to a hit, or a hit to a miss.
+> In _Obsidian World_, there are 3 ways to modify your dice roll: (1) spend a special resource to roll 4d6 and discard the lowest score, (2) upgrade a miss to a hit, and (3) upgrade a hit to a crit.
 
 ### Range of difficulty targets
 
@@ -96,7 +96,7 @@ For example, you have a lock on a door. I want this to be a very difficult chall
 
 In cases like these, having the ability to adjust difficulty targets is a godsend for GMs. It's easier for me to craft a tighter narrative that way.
 
-> In _Obsidian World_, difficulty comes in 4 steps: 0, -1d, -2d, or -3d. After rolling your dice, remove a number of results equal to the difficulty, starting from the highest to the lowest. Stop when you have removed the stated number of dice, or if you are left with just 1 die score.
+> In _Obsidian World_, difficulty ranges from 1 to 4. If your method rating is less than the difficulty, pick the lowest of 3d6 as your score. If your method rating is equal to the difficulty, pick the middle of 3d6 as your score. If your method rating is higher than the difficulty, pick the highest of 3d6 as your score.
 
 ### Wrapping it up
 

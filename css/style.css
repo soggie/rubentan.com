@@ -799,10 +799,21 @@ header .intro-text {
 
 #single ul li {
 	list-style-type: square;
+}
+
+#single ol li {
+	list-style-type: decimal;
+}
+
+#single ul li, #single ol li {
 	line-height: 2em;
 	margin-bottom: 1em;
 }
 
-#single ul li:last-child {
+#single ul li:last-child, #single ol li:last-child {
 	margin-bottom: 2em;
+}
+
+#single ol {
+	margin-left: 2em;
 }

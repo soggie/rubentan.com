@@ -6,8 +6,102 @@
     <description>Recent content in Gaming-rsses on Ruben Tan - my corner of the internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rubentan.com/gaming/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Probability check</title>
+      <link>http://rubentan.com/gaming/probability-check/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubentan.com/gaming/probability-check/</guid>
+      <description>&lt;p&gt;Following the previous post about dice systems, in this post I&amp;rsquo;m going to outline the dice system used by &lt;em&gt;Obsidian World&lt;/em&gt; and the probability for every outcome.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s the long story short version of how dice works in &lt;em&gt;Obsidian World&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Describe what you want to do. Based on this, the Narrator decides which &lt;strong&gt;method&lt;/strong&gt; and &lt;strong&gt;trait&lt;/strong&gt; you must use in the dice roll.&lt;/li&gt;
+&lt;li&gt;The Narrator decides the &lt;strong&gt;threat&lt;/strong&gt; rating (1 to 4) representing the risk and fictional positioning you are in.&lt;/li&gt;
+&lt;li&gt;Roll 3d6.&lt;/li&gt;
+&lt;li&gt;If method &amp;lt; threat, take the lowest die. If method = threat, take the middle die. If method &amp;gt; threat, take the highest die.&lt;/li&gt;
+&lt;li&gt;Add the die score to your trait (-1 to +2), and intepret the result: 3-, it&amp;rsquo;s a &lt;em&gt;miss&lt;/em&gt;. 4~6, it&amp;rsquo;s a &lt;em&gt;hit&lt;/em&gt;. 7+, it&amp;rsquo;s a &lt;em&gt;crit&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;On interpreting dice results:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Miss&lt;/strong&gt; - you fail to do what you want, and something bad happens to you&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hit&lt;/strong&gt; - you get what you want, at the cost of something&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Crit&lt;/strong&gt; - you get what you want without any negative costs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here&amp;rsquo;re a few examples:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;You charge at an opponent, leading with your shield to ram it through a wall. Because the enemy has enough time to react, the Narrator rates the &lt;strong&gt;threat&lt;/strong&gt; at 2 (normal), and asks you to use the method &lt;strong&gt;hard&lt;/strong&gt; and the trait &lt;strong&gt;grit&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Your &lt;strong&gt;hard&lt;/strong&gt; rating is 3 (higher than the threat), so you roll 3d6 and &lt;strong&gt;take the highest&lt;/strong&gt;. You get 1, 3, 4, and your result is 4 (highest die).&lt;/p&gt;
+
+&lt;p&gt;Your &lt;strong&gt;grit&lt;/strong&gt; rating is +1, so you add that to your score, giving you a result of 5. That&amp;rsquo;s a &lt;strong&gt;hit&lt;/strong&gt;! Both you and your opponent crash through the wall, and tumble down a slope&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Another example:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;You are in a library, and it&amp;rsquo;s burning. You need to find the scroll you came here for, and fast. Due to the danger of the scene, the Narrator rates the &lt;strong&gt;threat&lt;/strong&gt; at 3 (major), and asks you to use the method &lt;strong&gt;fast&lt;/strong&gt; and the trait &lt;strong&gt;sense&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Your &lt;strong&gt;fast&lt;/strong&gt; rating is 2 (lower than the threat), so you roll 3d6 and &lt;strong&gt;take the lowest&lt;/strong&gt;. You get a 2, 3, 3, so your result is 2 (lowest die).&lt;/p&gt;
+
+&lt;p&gt;Your &lt;strong&gt;sense&lt;/strong&gt; rating is 0, leaving you with a result of 2. That&amp;rsquo;s a &lt;strong&gt;miss&lt;/strong&gt;! You grab a pile of scrolls and run out of the building before it collapses and turns into an inferno, but to your dismay the scroll you&amp;rsquo;re looking for is not amongst the retrieved.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Final example:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;You are mediating a quarrel between a fisherman and a merchant. You struggle to keep the conversation civil and reasonable. The Narrator rates the &lt;strong&gt;threat&lt;/strong&gt; at 2 (normal), and asks you to use the method &lt;strong&gt;slow&lt;/strong&gt; and the trait &lt;strong&gt;heart&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Your &lt;strong&gt;slow&lt;/strong&gt; rating is 2 (equal to the threat), so you roll 3d6 and &lt;strong&gt;take the middle&lt;/strong&gt;. You get a 4, 5, 5, so your result is 5 (middle die).&lt;/p&gt;
+
+&lt;p&gt;Your &lt;strong&gt;heart&lt;/strong&gt; rating is +2, leaving you with a result of 7. That&amp;rsquo;s a &lt;strong&gt;crit&lt;/strong&gt;! The merchant gets angry and starts to scream at the fisherman, but you say a few words that calm the man down, and resolve the situation amiably for both parties. Both man leaves feeling indebted to you for your help in resolving the sticky situation.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;dice-probabilities&#34;&gt;Dice Probabilities&lt;/h3&gt;
+
+&lt;p&gt;So, using &lt;a href=&#34;http://anydice.com&#34;&gt;anydice&lt;/a&gt;, here&amp;rsquo;s the probabilities for different method and trait combinations:&lt;/p&gt;
+
+&lt;p&gt;When your method is less than the threat &amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Keep lowest -1, 96.3% miss, 3.7% hit, 0% crit&lt;/li&gt;
+&lt;li&gt;Keep lowest, 87.5% miss, 12.5% hit, 0% cit&lt;/li&gt;
+&lt;li&gt;Keep lowest +1, 70.37% miss, 29.49% hit, 0.46% crit&lt;/li&gt;
+&lt;li&gt;Keep lowest +2, 42.13% miss, 55.73% hit, 3.70% crit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When your method is equal to the threat &amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Keep middle -1, 74.07% miss, 25.93% hit, 0% crit&lt;/li&gt;
+&lt;li&gt;Keep middle, 50% miss, 50% hit, 0% crit&lt;/li&gt;
+&lt;li&gt;Keep middle +1, 25.93% miss, 68.59% hit, 7.41% crit&lt;/li&gt;
+&lt;li&gt;Keep middle +2, 7.41% miss, 68.59% hit, 25.93% crit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When your method is higher than the threat &amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Keep highest -1, 29.63% miss, 70.37% hit, 0% crit&lt;/li&gt;
+&lt;li&gt;Keep highest 0, 12.5% miss, 87.5% hit, 0% crit&lt;/li&gt;
+&lt;li&gt;Keep highest +1, 3.7% miss, 55.73% hit, 42.13% crit&lt;/li&gt;
+&lt;li&gt;Keep highest +2, 0.46% miss, 29.49% hit, 70.37% crit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;Not the best numbers, but hey, sometimes you gotta strike the balance between usability, extensibility and probability right? Until next time, stay tuned!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Let&#39;s talk about dice</title>
@@ -63,7 +157,7 @@
 &lt;p&gt;From my playtests, players will always choose to roll more dice. The more dice you get to roll, the better you feel about getting the results you want. Since &lt;em&gt;Obsidian World&lt;/em&gt; is not a game about luck and fortune, and the players are supposed to be playing heroes who &lt;em&gt;knows what they are doing most of the time&lt;/em&gt;, I decided to use a dice pool (pick highest) method to ensure that success is more common than failure.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, you roll from 1d6 to 4d6, and pick the highest score. The number of dice is determined by your hero&amp;rsquo;s &lt;strong&gt;method&lt;/strong&gt; (fast, hard, slow, soft), which describes &lt;strong&gt;how&lt;/strong&gt; you do things rather than base it off skills or attributes like most RPGs do.&lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, you always roll 3d6, and pick either the lowest/middle/highest based on the situation. The number of dice is determined by your hero&amp;rsquo;s &lt;strong&gt;method&lt;/strong&gt; (fast, hard, slow, soft), which describes &lt;strong&gt;how&lt;/strong&gt; you do things rather than base it off skills or attributes like most RPGs do.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&#34;number-of-possible-outcomes&#34;&gt;Number of possible outcomes&lt;/h3&gt;
@@ -79,7 +173,7 @@
 &lt;p&gt;For &lt;em&gt;Obsidian World&lt;/em&gt;, I decided to follow in the footsteps of Dungeon World and Apocalypse World. Dice rolls yield &lt;em&gt;miss&lt;/em&gt; (you don&amp;rsquo;t get what you want), &lt;em&gt;hit&lt;/em&gt; (you get what you want, at a cost), or &lt;em&gt;crit&lt;/em&gt; (you get what you want, and more). Since &lt;em&gt;hits&lt;/em&gt; are the most common outcome, it&amp;rsquo;s possible for me in actual play as a GM to push my players on a heroic journey: every time you want to do something significant, you must think about what you must sacrifice to get there.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, after picking the highest score, add it to your trait (-1 to +2) and intepret the result. On a 1~3, it&amp;rsquo;s a miss - tough luck! On a 4~6, it&amp;rsquo;s a hit - success, but you must give up something you care about, or reduce the effect of your success. On a 7+, it&amp;rsquo;s a crit - you succeed with style!&lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, add your die score to your trait (-1 to +2) and intepret the result. On a 1~3, it&amp;rsquo;s a miss - tough luck! On a 4~6, it&amp;rsquo;s a hit - success, but you must give up something you care about, or reduce the effect of your success. On a 7+, it&amp;rsquo;s a crit - you succeed with style!&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&#34;modifying-dice-and-dice-scores&#34;&gt;Modifying dice and dice scores&lt;/h3&gt;
@@ -105,7 +199,7 @@
 &lt;p&gt;The bottom line is, the simpler the basic dice roll, the more you can add on top of it without killing your game&amp;rsquo;s usability outright.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, dice modifiers come in two ways: upgrade and downgrades. On an upgrade, you changes a miss to a hit, or a hit to a crit. On a downgrade, you change a crit to a hit, or a hit to a miss.&lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, there are 3 ways to modify your dice roll: (1) spend a special resource to roll 4d6 and discard the lowest score, (2) upgrade a miss to a hit, and (3) upgrade a hit to a crit.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&#34;range-of-difficulty-targets&#34;&gt;Range of difficulty targets&lt;/h3&gt;
@@ -119,7 +213,7 @@
 &lt;p&gt;In cases like these, having the ability to adjust difficulty targets is a godsend for GMs. It&amp;rsquo;s easier for me to craft a tighter narrative that way.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, difficulty comes in 4 steps: 0, -1d, -2d, or -3d. After rolling your dice, remove a number of results equal to the difficulty, starting from the highest to the lowest. Stop when you have removed the stated number of dice, or if you are left with just 1 die score.&lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, difficulty ranges from 1 to 4. If your method rating is less than the difficulty, pick the lowest of 3d6 as your score. If your method rating is equal to the difficulty, pick the middle of 3d6 as your score. If your method rating is higher than the difficulty, pick the highest of 3d6 as your score.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&#34;wrapping-it-up&#34;&gt;Wrapping it up&lt;/h3&gt;
