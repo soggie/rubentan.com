@@ -807,7 +807,6 @@ header .intro-text {
 
 #single ul li, #single ol li {
 	line-height: 2em;
-	margin-bottom: 1em;
 }
 
 #single ul li:last-child, #single ol li:last-child {
