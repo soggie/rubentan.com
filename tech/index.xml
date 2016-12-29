@@ -6,8 +6,22 @@
     <description>Recent content in Tech-rsses on Ruben Tan - my corner of the internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rubentan.com/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Journey into identity</title>
+      <link>http://rubentan.com/tech/journey-into-identity/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubentan.com/tech/journey-into-identity/</guid>
+      <description>&lt;p&gt;Just a placeholder for a series of article I&amp;rsquo;m going to write about identity, and how it will affect the digital world.&lt;/p&gt;
+
+&lt;!-- more --&gt; 
+
+&lt;p&gt;Stay tuned!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Test Post Please Ignore</title>
