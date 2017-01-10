@@ -7,7 +7,7 @@ date="2016-12-29"
 
 Just a placeholder for a series of article I'm going to write about identity, and how it will affect the digital world.
 
-<!-- more --> 
+<!--more--> 
 
 Identity is an often misunderstood concept in the modern world. Most people confuse identity with authorisation and authentication, and when you do this it becomes exponentially hard to explain what an identity solution is without getting questioned on irrelevant parts.
 
