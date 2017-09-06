@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="Ruben Tan">
+
+    <base href="http://rubentan.com/">
+    <title>Probability check</title>
+    <link rel="canonical" href="http://rubentan.com/gaming/probability-check/">
+    <link href="" rel="alternate" type="application/rss+xml" title="Ruben Tan - my corner of the internet" />
+
+    
+<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/img/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/img/apple-touch-icon-114x114.png">
+
+
+<link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+<link rel="stylesheet" type="text/css"  href="/css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/css/font-awesome.css">
+
+
+<link rel="stylesheet" type="text/css"  href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/prettyPhoto.css">
+<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="/js/modernizr.custom.js"></script>
+
+    
+    
+    
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+
+
+
+<div id="nav">
+  <nav class="navbar navbar-custom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse"> <i class="fa fa-bars"></i> </button>
+        <a class="navbar-brand page-scroll" href="#page-top">Ruben "RogueJS" Tan</a> </div>
+      
+      
+      <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+        <ul class="nav navbar-nav">
+          
+          <li class="hidden"> <a href="#page-top"></a> </li>
+          <li> <a class="page-scroll" href="/">Back to Main</a> </li>
+          <li> <a class="page-scroll" href="/tech">On Tech...</a> </li>
+          <li> <a class="page-scroll" href="/gaming">On Gaming...</a> </li>
+          <li> <a class="page-scroll" href="/life">On Life...</a> </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</div>
+
+
+
+<div id="single">
+  <div class="container">
+    <div class="section-title text-center center">
+      <h2>Probability check</h2>
+      <div class="col-md-12 text-center single-date">Posted on monday, 27 Dec 2016</div>
+    </div>
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        <div class="content-text">
+           <p>Following the previous post about dice systems, in this post I&rsquo;m going to outline the dice system used by <em>Obsidian World</em> and the probability for every outcome.</p>
+
+<p></p>
+
+<p>Here&rsquo;s the long story short version of how dice works in <em>Obsidian World</em>:</p>
+
+<ol>
+<li>Describe what you want to do. Based on this, the Narrator decides which <strong>method</strong> and <strong>trait</strong> you must use in the dice roll.</li>
+<li>The Narrator decides the <strong>threat</strong> rating (1 to 4) representing the risk and fictional positioning you are in.</li>
+<li>Roll 3d6.</li>
+<li>If method &lt; threat, take the lowest die. If method = threat, take the middle die. If method &gt; threat, take the highest die.</li>
+<li>Add the die score to your trait (-1 to +2), and intepret the result: 3-, it&rsquo;s a <em>miss</em>. 4~6, it&rsquo;s a <em>hit</em>. 7+, it&rsquo;s a <em>crit</em>.</li>
+</ol>
+
+<p>On interpreting dice results:</p>
+
+<ul>
+<li><strong>Miss</strong> - you fail to do what you want, and something bad happens to you</li>
+<li><strong>Hit</strong> - you get what you want, at the cost of something</li>
+<li><strong>Crit</strong> - you get what you want without any negative costs</li>
+</ul>
+
+<p>Here&rsquo;re a few examples:</p>
+
+<blockquote>
+<p>You charge at an opponent, leading with your shield to ram it through a wall. Because the enemy has enough time to react, the Narrator rates the <strong>threat</strong> at 2 (normal), and asks you to use the method <strong>hard</strong> and the trait <strong>grit</strong>.</p>
+
+<p>Your <strong>hard</strong> rating is 3 (higher than the threat), so you roll 3d6 and <strong>take the highest</strong>. You get 1, 3, 4, and your result is 4 (highest die).</p>
+
+<p>Your <strong>grit</strong> rating is +1, so you add that to your score, giving you a result of 5. That&rsquo;s a <strong>hit</strong>! Both you and your opponent crash through the wall, and tumble down a slope&hellip;</p>
+</blockquote>
+
+<p>Another example:</p>
+
+<blockquote>
+<p>You are in a library, and it&rsquo;s burning. You need to find the scroll you came here for, and fast. Due to the danger of the scene, the Narrator rates the <strong>threat</strong> at 3 (major), and asks you to use the method <strong>fast</strong> and the trait <strong>sense</strong>.</p>
+
+<p>Your <strong>fast</strong> rating is 2 (lower than the threat), so you roll 3d6 and <strong>take the lowest</strong>. You get a 2, 3, 3, so your result is 2 (lowest die).</p>
+
+<p>Your <strong>sense</strong> rating is 0, leaving you with a result of 2. That&rsquo;s a <strong>miss</strong>! You grab a pile of scrolls and run out of the building before it collapses and turns into an inferno, but to your dismay the scroll you&rsquo;re looking for is not amongst the retrieved.</p>
+</blockquote>
+
+<p>Final example:</p>
+
+<blockquote>
+<p>You are mediating a quarrel between a fisherman and a merchant. You struggle to keep the conversation civil and reasonable. The Narrator rates the <strong>threat</strong> at 2 (normal), and asks you to use the method <strong>slow</strong> and the trait <strong>heart</strong>.</p>
+
+<p>Your <strong>slow</strong> rating is 2 (equal to the threat), so you roll 3d6 and <strong>take the middle</strong>. You get a 4, 5, 5, so your result is 5 (middle die).</p>
+
+<p>Your <strong>heart</strong> rating is +2, leaving you with a result of 7. That&rsquo;s a <strong>crit</strong>! The merchant gets angry and starts to scream at the fisherman, but you say a few words that calm the man down, and resolve the situation amiably for both parties. Both man leaves feeling indebted to you for your help in resolving the sticky situation.</p>
+</blockquote>
+
+<h3 id="dice-probabilities">Dice Probabilities</h3>
+
+<p>So, using <a href="http://anydice.com">anydice</a>, here&rsquo;s the probabilities for different method and trait combinations:</p>
+
+<p>When your method is less than the threat &hellip;</p>
+
+<ul>
+<li>Keep lowest -1, 96.3% miss, 3.7% hit, 0% crit</li>
+<li>Keep lowest, 87.5% miss, 12.5% hit, 0% cit</li>
+<li>Keep lowest +1, 70.37% miss, 29.49% hit, 0.46% crit</li>
+<li>Keep lowest +2, 42.13% miss, 55.73% hit, 3.70% crit</li>
+</ul>
+
+<p>When your method is equal to the threat &hellip;</p>
+
+<ul>
+<li>Keep middle -1, 74.07% miss, 25.93% hit, 0% crit</li>
+<li>Keep middle, 50% miss, 50% hit, 0% crit</li>
+<li>Keep middle +1, 25.93% miss, 68.59% hit, 7.41% crit</li>
+<li>Keep middle +2, 7.41% miss, 68.59% hit, 25.93% crit</li>
+</ul>
+
+<p>When your method is higher than the threat &hellip;</p>
+
+<ul>
+<li>Keep highest -1, 29.63% miss, 70.37% hit, 0% crit</li>
+<li>Keep highest 0, 12.5% miss, 87.5% hit, 0% crit</li>
+<li>Keep highest +1, 3.7% miss, 55.73% hit, 42.13% crit</li>
+<li>Keep highest +2, 0.46% miss, 29.49% hit, 70.37% crit</li>
+</ul>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>Not the best numbers, but hey, sometimes you gotta strike the balance between usability, extensibility and probability right? Until next time, stay tuned!</p>
+        </div>
+        <div class="text-center center">
+          <hr>
+          <p>
+            Article series  [<a href="http://rubentan.com/series/obsidian-world">Obsidian World</a>]
+            tagged  [<a href="http://rubentan.com/tags/game-design">Game Design</a>] [<a href="http://rubentan.com/tags/game-mechanics">Game Mechanics</a>]
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="contact" class="text-center">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2">
+      <h2>Contact</h2>
+      <div class="social">
+        <ul>
+          <li><a href="https://www.facebook.com/ruben.tan"><i class="fa fa-facebook"></i></a></li>
+          <li><a href="https://www.twitter.com/roguejs"><i class="fa fa-twitter"></i></a></li>
+          <li><a href="https://www.github.com/soggie"><i class="fa fa-github"></i></a></li>
+          <li><a href="https://www.instagram.com/roguejs"><i class="fa fa-instagram"></i></a></li>
+          <li><a href="https://www.linkedin.com/in/rubentan"><i class="fa fa-linkedin"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="footer">
+  <div class="container text-center">
+    <div class="fnav">
+      <p>Copyright &copy; 2016 Ruben Tan. Designed by <a href="http://www.templatewire.com" rel="nofollow">TemplateWire</a></p>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="/js/jquery.1.11.1.js"></script> 
+<script type="text/javascript" src="/js/bootstrap.js"></script> 
+<script type="text/javascript" src="/js/easypiechart.js"></script> 
+<script type="text/javascript" src="/js/jquery.prettyPhoto.js"></script> 
+<script type="text/javascript" src="/js/jquery.isotope.js"></script> 
+<script type="text/javascript" src="/js/jquery.counterup.js"></script> 
+<script type="text/javascript" src="/js/waypoints.js"></script> 
+<script type="text/javascript" src="/js/jqBootstrapValidation.js"></script> 
+<script type="text/javascript" src="/js/contact_me.js"></script> 
+<script type="text/javascript" src="/js/main.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2951660-15', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

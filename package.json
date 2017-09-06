@@ -1,0 +1,21 @@
+{
+  "name": "rubentan.com",
+  "version": "1.0.0",
+  "description": "This website is architected to be easy to use (for me) and makes it easy for me to add functionality into it in the future. Though its primary purpose remains as a dump for my thoughts, eventually I would want to use this site as a spawning pool for ideas.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./bin/build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soggie/rubentan.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soggie/rubentan.com/issues"
+  },
+  "homepage": "https://github.com/soggie/rubentan.com#readme",
+  "dependencies": {}
+}

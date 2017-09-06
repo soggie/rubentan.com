@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ruben Tan - my corner of the internet</title>
+    <link>http://rubentan.com/tags/</link>
+    <description>Recent content in Tags on Ruben Tan - my corner of the internet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://rubentan.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cryptography</title>
+      <link>http://rubentan.com/tags/cryptography/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubentan.com/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Design</title>
+      <link>http://rubentan.com/tags/game-design/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubentan.com/tags/game-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Mechanics</title>
+      <link>http://rubentan.com/tags/game-mechanics/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubentan.com/tags/game-mechanics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>http://rubentan.com/tags/history/</link>
+      <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubentan.com/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity</title>
+      <link>http://rubentan.com/tags/identity/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubentan.com/tags/identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reddit</title>
+      <link>http://rubentan.com/tags/reddit/</link>
+      <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubentan.com/tags/reddit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Worldbuilding</title>
+      <link>http://rubentan.com/tags/worldbuilding/</link>
+      <pubDate>Sat, 24 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubentan.com/tags/worldbuilding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

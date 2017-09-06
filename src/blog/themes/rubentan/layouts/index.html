@@ -1,0 +1,150 @@
+{{ partial "header.html" . }}
+
+<!-- Header -->
+<!-- Navigation -->
+<div id="nav">
+  <nav class="navbar navbar-custom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse"> <i class="fa fa-bars"></i> </button>
+        <a class="navbar-brand page-scroll" href="#page-top">Ruben Tan</a> </div>
+      
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+        <ul class="nav navbar-nav">
+          <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+          <li class="hidden"> <a href="#page-top"></a> </li>
+          <li> <a class="page-scroll" href="#about">About</a> </li>
+          <li> <a class="page-scroll" href="#blog">Blog</a> </li>
+          <li> <a class="page-scroll" href="#events">Events</a> </li>
+          <li> <a class="page-scroll" href="#contact">Contact</a> </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</div>
+
+
+<!-- About Section -->
+<div id="about">
+  <div class="container">
+    <div class="section-title text-center center">
+      <h2>About Me</h2>
+      <hr>
+    </div>
+    <div class="row">
+      <div class="col-md-12 text-center"><img src="/img/about.jpg" class="img-responsive"></div>
+      <div class="col-md-8 col-md-offset-2">
+        <div class="about-text">
+          <p>I am a technologist with more than 15 years of professional software development experience, primarily focused in the domains of backend services, distributed computing and system architecture.</p>
+          <p>Here you will find my thoughts on various subjects that interests me, ranging from distributed technologies to tabletop gaming. And maybe a few pictures of my cat. Okay, not that many. I promise.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Blog Section -->
+<div id="blog" class="text-center">
+  <div class="container">
+    <div class="section-title center">
+      <h2>Blog Posts</h2>
+      <hr>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <ul class="timeline">
+          {{ range first 10 .Data.Pages }}
+            {{ .Render "summary"}}
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="events" class="text-center">
+  <div class="container">
+    <div class="section-title center">
+      <h2>Events</h2>
+      <hr>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <ul class="timeline">
+          <li class="timeline-inverted">
+            <div class="timeline-image">
+              <h4>Nov 2016</h4>
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4>Payment Conference Asia</h4>
+                <h4 class="subheading">Breaking Down Blockchains</h4>
+              </div>
+              <div class="timeline-body">
+                <p>In this talk I gave a breakdown on blockchains and how payment providers can leverage it to gain an edge in the market.</p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-image">
+              <h4>Nov 2016</h4>
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4>8th BankTech Asia - Kuala Lumpur</h4>
+                <h4 class="subheading">Banking on the Blockchain</h4>
+              </div>
+              <div class="timeline-body">
+                <p>In two separate talks, I covered the impacts of blockchains and what are the common pitfalls when accepting cryptocurrencies</p>
+              </div>
+            </div>
+          </li>
+          <li class="timeline-inverted">
+            <div class="timeline-image">
+              <h4>Aug 2016</h4>
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4>8th BankTech Asia - Jakarta</h4>
+                <h4 class="subheading">Banking on the Blockchain</h4>
+              </div>
+              <div class="timeline-body">
+                <p>Similar to the talk in Manilla, I spoke about blockchains and how it can build the internet of value of the future.</p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-image">
+              <h4>May 2016</h4>
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4>8th BankTech Asia - Manilla</h4>
+                <h4 class="subheading">Banking on the Blockchain</h4>
+              </div>
+              <div class="timeline-body">
+                <p>In this fintech conference I largely spoke about blockchains and how it impacts the finance world at large.</p>
+              </div>
+            </div>
+          </li>
+          <li class="timeline-inverted">
+            <div class="timeline-image">
+              <h4>Oct 2014</h4>
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4>JSDC Taiwan</h4>
+                <h4 class="subheading">Leveraging ZeroMQ for Node.js</h4>
+              </div>
+              <div class="timeline-body">
+                <p>In this conference I spoke about ways you can use ZeroMQ to do cool stuff in node.js.</p>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ partial "footer.html" . }}

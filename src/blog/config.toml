@@ -1,0 +1,10 @@
+baseurl = "http://rubentan.com/"
+title = "Ruben Tan - my corner of the internet"
+description = "A corner on the internet for geeky stuff from technology to tabletop gaming"
+languageCode = "en-us"
+publishdir = "../../dist/blog"
+theme = "rubentan"
+
+[taxonomies]
+tag = "tags"
+series = "series"
