@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech-rsses on Ruben Tan - my corner of the internet</title>
-    <link>http://rubentan.com/tech/index.xml</link>
-    <description>Recent content in Tech-rsses on Ruben Tan - my corner of the internet</description>
+    <title>Teches on Ruben Tan - my corner of the internet</title>
+    <link>http://rubentan.com/tech/</link>
+    <description>Recent content in Teches on Ruben Tan - my corner of the internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubentan.com/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://rubentan.com/tech/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Journey into identity</title>
@@ -17,21 +19,7 @@
       <guid>http://rubentan.com/tech/journey-into-identity/</guid>
       <description>&lt;p&gt;Just a placeholder for a series of article I&amp;rsquo;m going to write about identity, and how it will affect the digital world.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Identity is an often misunderstood concept in the modern world. Most people confuse identity with authorisation and authentication, and when you do this it becomes exponentially hard to explain what an identity solution is without getting questioned on irrelevant parts.&lt;/p&gt;
-
-&lt;h3 id=&#34;what-is-identity&#34;&gt;What is identity?&lt;/h3&gt;
-
-&lt;p&gt;The easiest way to understand the term &lt;strong&gt;identity&lt;/strong&gt; is to acknowledge that it is a category rather than a noun. There are many kinds of identity, some more important than others, and many of them have their own uses in different sectors.&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s break down identity to the following concepts:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Legal Identity&lt;/li&gt;
-&lt;li&gt;Social Identity&lt;/li&gt;
-&lt;li&gt;Personal Identity&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -42,11 +30,7 @@
       <guid>http://rubentan.com/tech/test-post-please-ignore/</guid>
       <description>&lt;p&gt;What better way to start my blog by writing &lt;em&gt;test post please ignore&lt;/em&gt;? Alright, strap in kids, time for a little reddit history.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;See, once upon a time, there was a post called &lt;em&gt;Test Post Please Ignore&lt;/em&gt; in reddit, and somehow got upvoted to the moon. No, that&amp;rsquo;d be an understatement. It got so many upvotes that it went straight to the sun, punched a hole through it, tore open a wormhole, and ended up in a parallel dimension stuck in the buttocks of an unfortunate elder god. Our universe is fucked because of this, but hey, it&amp;rsquo;ll be some time before the elder god arrives, but when it does, just remember:&lt;/p&gt;
-
-&lt;p&gt;It was reddit&amp;rsquo;s fault.&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

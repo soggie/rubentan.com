@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://rubentan.com/</loc>
-    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://rubentan.com/gaming/tidying-up-dice-mechanics/</loc>
@@ -34,6 +30,102 @@
   <url>
     <loc>http://rubentan.com/tech/test-post-please-ignore/</loc>
     <lastmod>2016-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/tags/cryptography/</loc>
+    <lastmod>2016-12-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/tags/design/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/tags/dice/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/gaming/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/tags/history/</loc>
+    <lastmod>2016-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/tags/identity/</loc>
+    <lastmod>2016-12-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/series/obsidian-world/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/tags/reddit/</loc>
+    <lastmod>2016-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/tags/rpg/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/series/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/tags/tabletop/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/tags/</loc>
+    <lastmod>2016-12-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/series/tech-of-my-life/</loc>
+    <lastmod>2016-12-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/tech/</loc>
+    <lastmod>2016-12-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rubentan.com/tags/worldbuilding/</loc>
+    <lastmod>2016-12-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gaming-rsses on Ruben Tan - my corner of the internet</title>
-    <link>http://rubentan.com/gaming/index.xml</link>
-    <description>Recent content in Gaming-rsses on Ruben Tan - my corner of the internet</description>
+    <title>Gamings on Ruben Tan - my corner of the internet</title>
+    <link>http://rubentan.com/gaming/</link>
+    <description>Recent content in Gamings on Ruben Tan - my corner of the internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubentan.com/gaming/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://rubentan.com/gaming/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Tidying up dice mechanics</title>
@@ -17,42 +19,7 @@
       <guid>http://rubentan.com/gaming/tidying-up-dice-mechanics/</guid>
       <description>&lt;p&gt;After playtesting the &lt;a href=&#34;http://rubentan.com/gaming/probability-check&#34;&gt;last dice system&lt;/a&gt;, several problems cropped up, which led to the new dice mechanic which I am &lt;em&gt;super&lt;/em&gt; happy with.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;In the previous post, I evaluated the probability of a 3d6 pick high/middle/low system, and I thought that would be the perfect dice rules for &lt;em&gt;Obsidian World&lt;/em&gt;. I was wrong. Playtesting proved me wrong.&lt;/p&gt;
-
-&lt;p&gt;It doesn&amp;rsquo;t feel right, and picking one die from three feels a bit underwhelming. My players didn&amp;rsquo;t comment much on the dice, but they did took some time to figure out which die to choose, given the situation and assorted modifiers.&lt;/p&gt;
-
-&lt;p&gt;In short, even with 3d6 pick one, if feels a bit clunky in play. The other thing is, it doesn&amp;rsquo;t actually &lt;em&gt;do&lt;/em&gt; anything, other than giving 3 outcomes (miss, hit, crit). There&amp;rsquo;s no tactical decision to be made on the dice, and there&amp;rsquo;s not a lot of room nor depth to expand it through special rules like abilities and such.&lt;/p&gt;
-
-&lt;h3 id=&#34;a-new-start&#34;&gt;A New Start&lt;/h3&gt;
-
-&lt;p&gt;So I ditched it and went back to the drawing board. I knew I wanted 3d6, so that has to stay. I knew I wanted roll and pick, so that had to stay. I knew I wanted degrees of success, so that has to stay. How to turn the dice system into something with a little bit more nuance than the current system?&lt;/p&gt;
-
-&lt;p&gt;Epiphany.&lt;/p&gt;
-
-&lt;p&gt;I decided to do 2d6 instead. Here&amp;rsquo;s how a basic dice roll works:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Determine position (dominant, balanced, or desperate)&lt;/li&gt;
-&lt;li&gt;Roll 3d6&lt;/li&gt;
-&lt;li&gt;Dominant: add highest two + trait, success on 7+, lowest die is effect&lt;/li&gt;
-&lt;li&gt;Balanced: add highest + lowest + trait, success on 7+, middle die is effect&lt;/li&gt;
-&lt;li&gt;Desperate: add lowest two + trait, success on 7+, highest die is effect&lt;/li&gt;
-&lt;li&gt;On success, check effect die score: 1-3 graze, 4-5 hit, 6 crit&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Here&amp;rsquo;s the fun part about this system: probability wise, if you are in a dominant position, unless you rolled really well, your effect is going to suck, since you&amp;rsquo;re picking the lowest die as your effect. Conversely, if you are in a desperate position, should you succeed on the sum of two lowest die, it is easier for you to crit on your effect die, since it is the highest die of the three!&lt;/p&gt;
-
-&lt;p&gt;So this means, the dice system adds a bit more tactical depth to your fictional positioning during play: when you get put in a desperate position, all is not lost! You can still win with a lucky hit. This means you actually get &lt;em&gt;stronger&lt;/em&gt; when you are ground to dust.&lt;/p&gt;
-
-&lt;p&gt;I am happy with this new mechanic because it portrays the themes of &lt;em&gt;Obsidian World&lt;/em&gt; really well, where the game is supposed to be about sacrifice and hope in the eternal gloom.&lt;/p&gt;
-
-&lt;h3 id=&#34;moving-on&#34;&gt;Moving On&lt;/h3&gt;
-
-&lt;p&gt;I&amp;rsquo;m honestly done with the dice system. I like it. 2d6 and success on a 7+ gives me enough room to apply modifiers to it, and effect die working the way it does fits the design goals I have for this game.&lt;/p&gt;
-
-&lt;p&gt;I can&amp;rsquo;t wait to start fleshing out the other parts of the system. A slight preview: the next topic about the game system will be something I call &lt;em&gt;keys&lt;/em&gt;. Stay tuned!&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -63,90 +30,7 @@
       <guid>http://rubentan.com/gaming/probability-check/</guid>
       <description>&lt;p&gt;Following the previous post about dice systems, in this post I&amp;rsquo;m going to outline the dice system used by &lt;em&gt;Obsidian World&lt;/em&gt; and the probability for every outcome.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s the long story short version of how dice works in &lt;em&gt;Obsidian World&lt;/em&gt;:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Describe what you want to do. Based on this, the Narrator decides which &lt;strong&gt;method&lt;/strong&gt; and &lt;strong&gt;trait&lt;/strong&gt; you must use in the dice roll.&lt;/li&gt;
-&lt;li&gt;The Narrator decides the &lt;strong&gt;threat&lt;/strong&gt; rating (1 to 4) representing the risk and fictional positioning you are in.&lt;/li&gt;
-&lt;li&gt;Roll 3d6.&lt;/li&gt;
-&lt;li&gt;If method &amp;lt; threat, take the lowest die. If method = threat, take the middle die. If method &amp;gt; threat, take the highest die.&lt;/li&gt;
-&lt;li&gt;Add the die score to your trait (-1 to +2), and intepret the result: 3-, it&amp;rsquo;s a &lt;em&gt;miss&lt;/em&gt;. 4~6, it&amp;rsquo;s a &lt;em&gt;hit&lt;/em&gt;. 7+, it&amp;rsquo;s a &lt;em&gt;crit&lt;/em&gt;.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;On interpreting dice results:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Miss&lt;/strong&gt; - you fail to do what you want, and something bad happens to you&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hit&lt;/strong&gt; - you get what you want, at the cost of something&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Crit&lt;/strong&gt; - you get what you want without any negative costs&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Here&amp;rsquo;re a few examples:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;You charge at an opponent, leading with your shield to ram it through a wall. Because the enemy has enough time to react, the Narrator rates the &lt;strong&gt;threat&lt;/strong&gt; at 2 (normal), and asks you to use the method &lt;strong&gt;hard&lt;/strong&gt; and the trait &lt;strong&gt;grit&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Your &lt;strong&gt;hard&lt;/strong&gt; rating is 3 (higher than the threat), so you roll 3d6 and &lt;strong&gt;take the highest&lt;/strong&gt;. You get 1, 3, 4, and your result is 4 (highest die).&lt;/p&gt;
-
-&lt;p&gt;Your &lt;strong&gt;grit&lt;/strong&gt; rating is +1, so you add that to your score, giving you a result of 5. That&amp;rsquo;s a &lt;strong&gt;hit&lt;/strong&gt;! Both you and your opponent crash through the wall, and tumble down a slope&amp;hellip;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Another example:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;You are in a library, and it&amp;rsquo;s burning. You need to find the scroll you came here for, and fast. Due to the danger of the scene, the Narrator rates the &lt;strong&gt;threat&lt;/strong&gt; at 3 (major), and asks you to use the method &lt;strong&gt;fast&lt;/strong&gt; and the trait &lt;strong&gt;sense&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Your &lt;strong&gt;fast&lt;/strong&gt; rating is 2 (lower than the threat), so you roll 3d6 and &lt;strong&gt;take the lowest&lt;/strong&gt;. You get a 2, 3, 3, so your result is 2 (lowest die).&lt;/p&gt;
-
-&lt;p&gt;Your &lt;strong&gt;sense&lt;/strong&gt; rating is 0, leaving you with a result of 2. That&amp;rsquo;s a &lt;strong&gt;miss&lt;/strong&gt;! You grab a pile of scrolls and run out of the building before it collapses and turns into an inferno, but to your dismay the scroll you&amp;rsquo;re looking for is not amongst the retrieved.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Final example:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;You are mediating a quarrel between a fisherman and a merchant. You struggle to keep the conversation civil and reasonable. The Narrator rates the &lt;strong&gt;threat&lt;/strong&gt; at 2 (normal), and asks you to use the method &lt;strong&gt;slow&lt;/strong&gt; and the trait &lt;strong&gt;heart&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Your &lt;strong&gt;slow&lt;/strong&gt; rating is 2 (equal to the threat), so you roll 3d6 and &lt;strong&gt;take the middle&lt;/strong&gt;. You get a 4, 5, 5, so your result is 5 (middle die).&lt;/p&gt;
-
-&lt;p&gt;Your &lt;strong&gt;heart&lt;/strong&gt; rating is +2, leaving you with a result of 7. That&amp;rsquo;s a &lt;strong&gt;crit&lt;/strong&gt;! The merchant gets angry and starts to scream at the fisherman, but you say a few words that calm the man down, and resolve the situation amiably for both parties. Both man leaves feeling indebted to you for your help in resolving the sticky situation.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;dice-probabilities&#34;&gt;Dice Probabilities&lt;/h3&gt;
-
-&lt;p&gt;So, using &lt;a href=&#34;http://anydice.com&#34;&gt;anydice&lt;/a&gt;, here&amp;rsquo;s the probabilities for different method and trait combinations:&lt;/p&gt;
-
-&lt;p&gt;When your method is less than the threat &amp;hellip;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Keep lowest -1, 96.3% miss, 3.7% hit, 0% crit&lt;/li&gt;
-&lt;li&gt;Keep lowest, 87.5% miss, 12.5% hit, 0% cit&lt;/li&gt;
-&lt;li&gt;Keep lowest +1, 70.37% miss, 29.49% hit, 0.46% crit&lt;/li&gt;
-&lt;li&gt;Keep lowest +2, 42.13% miss, 55.73% hit, 3.70% crit&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;When your method is equal to the threat &amp;hellip;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Keep middle -1, 74.07% miss, 25.93% hit, 0% crit&lt;/li&gt;
-&lt;li&gt;Keep middle, 50% miss, 50% hit, 0% crit&lt;/li&gt;
-&lt;li&gt;Keep middle +1, 25.93% miss, 68.59% hit, 7.41% crit&lt;/li&gt;
-&lt;li&gt;Keep middle +2, 7.41% miss, 68.59% hit, 25.93% crit&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;When your method is higher than the threat &amp;hellip;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Keep highest -1, 29.63% miss, 70.37% hit, 0% crit&lt;/li&gt;
-&lt;li&gt;Keep highest 0, 12.5% miss, 87.5% hit, 0% crit&lt;/li&gt;
-&lt;li&gt;Keep highest +1, 3.7% miss, 55.73% hit, 42.13% crit&lt;/li&gt;
-&lt;li&gt;Keep highest +2, 0.46% miss, 29.49% hit, 70.37% crit&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
-
-&lt;p&gt;Not the best numbers, but hey, sometimes you gotta strike the balance between usability, extensibility and probability right? Until next time, stay tuned!&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -157,125 +41,7 @@
       <guid>http://rubentan.com/gaming/lets-talk-about-dice/</guid>
       <description>&lt;p&gt;Merry christmas! Today I&amp;rsquo;m going to talk about dice, and specific what led to the inception of the current dice mechanics.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Dice is an important facet in RPG rules. Being a consistent prowler (and mod) of &lt;a href=&#34;https://www.reddit.com/r/rpgdesign&#34;&gt;reddit&amp;rsquo;s /r/rpgdesign sub&lt;/a&gt;, I noticed a lot of designers agonising about dice mechanics, and how it works in the grand scheme of things.&lt;/p&gt;
-
-&lt;p&gt;Yes, designing a proper dice mechanics is hard, so I figured it&amp;rsquo;ll be easier if I focused on just a few things, and stop when I feel like I&amp;rsquo;ve gone far enough.&lt;/p&gt;
-
-&lt;h3 id=&#34;important-aspects-of-dice&#34;&gt;Important aspects of dice&lt;/h3&gt;
-
-&lt;p&gt;Dice rolling provides an angle of luck to your game. Dice is often used as the &amp;ldquo;neutral party&amp;rdquo; when there are disagreements as to how the game should proceed. Here&amp;rsquo;s an example:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;GM decides that the falling boulder is impossible to dodge, but a player insists that his kung fu master with all skill points invested into agility should have a chance, however slim. So instead of spending the next 30 minutes arguing about it, the GM asks the player to roll dice to see what happens.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Not all games are like this, and not all GM-player interactions need to be a competitive one, but dice does provide a neutral ground to decide the direction of the story so if it goes to shit, we can all &lt;strong&gt;blame the dice&lt;/strong&gt; instead of hating each other.&lt;/p&gt;
-
-&lt;p&gt;A good dice mechanics should consider all these aspects:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Probability distribution&lt;/li&gt;
-&lt;li&gt;Number of possible outcomes&lt;/li&gt;
-&lt;li&gt;Modifying dice and dice scores&lt;/li&gt;
-&lt;li&gt;Range of difficulty target&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There are more, but for my own purposes, these are enough. Let&amp;rsquo;s go through them one by one.&lt;/p&gt;
-
-&lt;h3 id=&#34;probability-distribution&#34;&gt;Probability distribution&lt;/h3&gt;
-
-&lt;p&gt;I won&amp;rsquo;t rehash what I consider common knowledge in math, so here&amp;rsquo;s an &lt;a href=&#34;http://anydice.com/articles/three-basic-distributions/&#34;&gt;excellent article&lt;/a&gt; explaning it from anydice.&lt;/p&gt;
-
-&lt;p&gt;The takeaway from here is that the flatter the distribution graph, the more &lt;em&gt;random&lt;/em&gt; your dice results are going to be in actual play.&lt;/p&gt;
-
-&lt;p&gt;Take rolling a 1d20 for example (twenty-sided dice). Every time you roll it, there&amp;rsquo;s a 5% chance of getting &lt;em&gt;any&lt;/em&gt; result on the die. This means it&amp;rsquo;s equally probably to roll a 1 or a 20, and the end result in actual play is that when you &lt;em&gt;do&lt;/em&gt; roll those results, it will either lead to players going &lt;em&gt;fuck yeah&lt;/em&gt; (on a 20) or &lt;em&gt;oh hell no&lt;/em&gt; (on a 1).&lt;/p&gt;
-
-&lt;p&gt;Now compare this to rolling 2d10 (two ten-sided dice, roll and add the results). Now the distribution is different: you have a higher chance of rolling 8-14 than 1 or 20. Here&amp;rsquo;s a graph showing the difference:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://glimmthegnome.files.wordpress.com/2011/08/1d20_vs_2d10.png&#34; alt=&#34;2d10 vs 1d20&#34; /&gt;&lt;br&gt;&lt;em&gt;Image taken from &lt;a href=&#34;https://glimmsworkshop.com/2011/08/22/core-mechanics-randomization/&#34;&gt;Glimm&amp;rsquo;s Workshop&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;This means that in actual play, most of the results will be around 8-14 range, while rolling 2s (snake eyes) and 20s will be exceedingly rare.&lt;/p&gt;
-
-&lt;p&gt;So what does this all mean?&lt;/p&gt;
-
-&lt;p&gt;From my playtests, players will always choose to roll more dice. The more dice you get to roll, the better you feel about getting the results you want. Since &lt;em&gt;Obsidian World&lt;/em&gt; is not a game about luck and fortune, and the players are supposed to be playing heroes who &lt;em&gt;knows what they are doing most of the time&lt;/em&gt;, I decided to use a dice pool (pick highest) method to ensure that success is more common than failure.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, you always roll 3d6, and pick either the lowest/middle/highest based on the situation. The number of dice is determined by your hero&amp;rsquo;s &lt;strong&gt;method&lt;/strong&gt; (fast, hard, slow, soft), which describes &lt;strong&gt;how&lt;/strong&gt; you do things rather than base it off skills or attributes like most RPGs do.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;number-of-possible-outcomes&#34;&gt;Number of possible outcomes&lt;/h3&gt;
-
-&lt;p&gt;Dice rolls don&amp;rsquo;t always need to yield a binary outcome: success or failure. In Dungeon World, you roll 2d6 (two six-sided dice and add up the results). On 1~6, you fail. 7~9, you succeed, but usually at a cost, or partial success. 10 and more, you succeed at no cost, or with extra effects.&lt;/p&gt;
-
-&lt;p&gt;Some other games (Warhammer Fantasy for example) introduces &lt;em&gt;degrees of failure&lt;/em&gt; and &lt;em&gt;degrees of success&lt;/em&gt;. If you fail, how badly is that failure? If you succeed, how good is your success?&lt;/p&gt;
-
-&lt;p&gt;In my experience, binary results are great when you are expected to do a lot of rolling. In a d20 game lasting about 3 hours, I&amp;rsquo;d expect to get into at least 2 combat encounters, of which in each encounter I&amp;rsquo;m expected to roll up to 10 times on average. Having a binary outcome means the GM can keep a rapid pace when interpreting the dice scores. Fail? You fail, move on. Succeed? Do what the rules say, move on.&lt;/p&gt;
-
-&lt;p&gt;However, binary results aren&amp;rsquo;t that fun when you have shitty luck. I rolled as string of misses once, and felt like a complete fool as my burly warrior, decked to the teeth in weapon and armour, keep missing a &lt;em&gt;prone&lt;/em&gt; target. Our poor GM had a hard time making my failures interesting after the third miss.&lt;/p&gt;
-
-&lt;p&gt;For &lt;em&gt;Obsidian World&lt;/em&gt;, I decided to follow in the footsteps of Dungeon World and Apocalypse World. Dice rolls yield &lt;em&gt;miss&lt;/em&gt; (you don&amp;rsquo;t get what you want), &lt;em&gt;hit&lt;/em&gt; (you get what you want, at a cost), or &lt;em&gt;crit&lt;/em&gt; (you get what you want, and more). Since &lt;em&gt;hits&lt;/em&gt; are the most common outcome, it&amp;rsquo;s possible for me in actual play as a GM to push my players on a heroic journey: every time you want to do something significant, you must think about what you must sacrifice to get there.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, add your die score to your trait (-1 to +2) and intepret the result. On a 1~3, it&amp;rsquo;s a miss - tough luck! On a 4~6, it&amp;rsquo;s a hit - success, but you must give up something you care about, or reduce the effect of your success. On a 7+, it&amp;rsquo;s a crit - you succeed with style!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;modifying-dice-and-dice-scores&#34;&gt;Modifying dice and dice scores&lt;/h3&gt;
-
-&lt;p&gt;A lot of designers go for complicated dice mechanics, and that is something I did once but quickly abandoned when I realise a good dice mechanic should be &lt;em&gt;as simple as possible&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;The reason for this is that the simpler your dice roll is, the more stuff you can do with it. Here, we specifically talk about ways to modify dice before rolling them.&lt;/p&gt;
-
-&lt;p&gt;Take for example, a super complicated dice scheme:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Roll a dice pool of step dice based on your attribute, skill and specialisations. Each attribute/skill/specialisation are rated at d4, d6, d8, d10 and d12. Then roll a pool of d6 equal to your wounds + enemy power. Remove matching scores in both dice pools, then remove all unmatched d6 in the second pool. Count successes based on a difficulty target.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Whoa. Ok, might be a bit exaggeration, but I kid you not, there are dice mechanics more complicated than this. It sounds like fun to incorporate all stats on your character sheet into one dice roll, but now you have a problem: how will adding a d10 or removing a d10 affect your probability distribution?&lt;/p&gt;
-
-&lt;p&gt;As always, think about the player. I&amp;rsquo;m rolling d4, 2d6 and 1d10 vs. 3d6. Now I have a one-use per day power that adds a 3d4 to my roll. If I use it, how will it improve my chances? It&amp;rsquo;s impossible to know in actual play.&lt;/p&gt;
-
-&lt;p&gt;Compared to say, rolling a 1d20, and having a skill do +3 to your dice score. Now that&amp;rsquo;s easier: I know that a +3 is a good thing, and if the target is 15, all I need to do is to roll 12 and above and I&amp;rsquo;m good. +3 equals to a +15% increased chance of making it. Easy peasy.&lt;/p&gt;
-
-&lt;p&gt;With a simpler dice scheme, there&amp;rsquo;s so much you can do with it, without sacrificing usability. You can add dice, add bonuses or penalties to the rolled scores, re-roll it, roll two pick highest, etc.&lt;/p&gt;
-
-&lt;p&gt;The bottom line is, the simpler the basic dice roll, the more you can add on top of it without killing your game&amp;rsquo;s usability outright.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, there are 3 ways to modify your dice roll: (1) spend a special resource to roll 4d6 and discard the lowest score, (2) upgrade a miss to a hit, and (3) upgrade a hit to a crit.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;range-of-difficulty-targets&#34;&gt;Range of difficulty targets&lt;/h3&gt;
-
-&lt;p&gt;A lot of dice mechanics feature a target number where you have to meet or exceed in order to succeed in your task. Most d20s will have you roll against a target number, while dice pools usually require you to roll a number of successes or a certain pattern.&lt;/p&gt;
-
-&lt;p&gt;My main beef with Dungeon World is the lack of difficulty targets. As a GM, when I present a tough monster, I want the players to know what they&amp;rsquo;re up against. Sure, I read the &lt;a href=&#34;https://www.reddit.com/r/gametales/comments/29tfyg/dungeon_world_scariest_monster_ever_16_hp/?st=ix49xjcx&amp;amp;sh=5cc68477&#34;&gt;16 HP dragon example&lt;/a&gt; and I understand how it works. But that is one specific example that doesn&amp;rsquo;t cover all instances where a difficulty target is actually useful.&lt;/p&gt;
-
-&lt;p&gt;For example, you have a lock on a door. I want this to be a very difficult challenge, because opening it will provide the players a shortcut around some other dangers. The only way to do so in Dungeon World (or any Powered by the Apocalypse games) is to make the player roll multiple times, or something to that effect.&lt;/p&gt;
-
-&lt;p&gt;In cases like these, having the ability to adjust difficulty targets is a godsend for GMs. It&amp;rsquo;s easier for me to craft a tighter narrative that way.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In &lt;em&gt;Obsidian World&lt;/em&gt;, difficulty ranges from 1 to 4. If your method rating is less than the difficulty, pick the lowest of 3d6 as your score. If your method rating is equal to the difficulty, pick the middle of 3d6 as your score. If your method rating is higher than the difficulty, pick the highest of 3d6 as your score.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;wrapping-it-up&#34;&gt;Wrapping it up&lt;/h3&gt;
-
-&lt;p&gt;Quite a long one &amp;lsquo;aint it? Don&amp;rsquo;t worry, I&amp;rsquo;m done.&lt;/p&gt;
-
-&lt;p&gt;So to recap, I favour these traits when designing &lt;em&gt;Obsidian World&lt;/em&gt;&amp;rsquo;s dice mechanics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Simple basic roll&lt;/li&gt;
-&lt;li&gt;Dice pool (with a max limit)&lt;/li&gt;
-&lt;li&gt;3 possible outcomes: miss, hit, or crit&lt;/li&gt;
-&lt;li&gt;Difficulty numbers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Until next time!&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -286,92 +52,7 @@
       <guid>http://rubentan.com/gaming/obsidian-world-intro/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s been a while since I talked about the RPG (the tabletop kind) that I&amp;rsquo;m working on, and much have changed since then. Time for a re-introduction!&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Obsidian World is a standalone pen-and-paper roleplaying game (RPG) set in the sunless world of Itheas where you struggle to inspire a despondent people to find hope in the gloom.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There, the elevator pitch. Let&amp;rsquo;s dive a little deeper into this. First of all, everything about the game revolves around one simple fact: &lt;strong&gt;there is no sun&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Obsidian World&lt;/em&gt; is primarily a worldbuilding exercise where I start with a simple premise (there is no sun) and work my way out from there. How did the sun vanish? What happens when you lose the sun? How do people survive in the new world? How would society look like?&lt;/p&gt;
-
-&lt;h3 id=&#34;no-creation-myth&#34;&gt;No creation myth&lt;/h3&gt;
-
-&lt;p&gt;One thing that I absolutely hated with worldbuilding is the idea of a creation myth. In the past, whever I sat down and built worlds, creation myth was always the starting point. But after many years of half baked ideas and unfinished worlds I figured there may be a better way of doing this.&lt;/p&gt;
-
-&lt;p&gt;So I asked myself: what&amp;rsquo;s the point of a creation myth? Do the gods that made the world (if they are indeed gods in the classical sense) matter in the current society? Does it make any difference if I swapped out one god for another, or changed the method of genesis?&lt;/p&gt;
-
-&lt;p&gt;And most important of all, will my players, who might not have any investment into the setting&amp;rsquo;s history itself, care?&lt;/p&gt;
-
-&lt;p&gt;Unfortunately from my playtestings, nope, most of them can&amp;rsquo;t even remember NPC names, let alone remember the pantheon of gods and their domains. Time for a better way to hook players into the setting other than dumping a history book on them.&lt;/p&gt;
-
-&lt;h3 id=&#34;a-world-of-mysteries&#34;&gt;A world of mysteries&lt;/h3&gt;
-
-&lt;p&gt;The driving factor behind the creation of &lt;strong&gt;Itheas&lt;/strong&gt; is that it must be a world that intrigues the curious cats. I want my players to be inspired by the lore, to be driven to want to know more about what happened. And the most effective tool to achieve that goal is through &lt;em&gt;mysteries&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Most people are naturally curious when given the right hooks. I don&amp;rsquo;t want my players to &lt;em&gt;know&lt;/em&gt; what the world is, and how it came about: I want them to form their own theories. To do this, I struck off the entire history I wrote for &lt;strong&gt;Itheas&lt;/strong&gt; and wrote a timeline around four epochs instead:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;The theft of the sun&lt;/strong&gt; - Long ago gods descended upon Itheas and elevated the common men into a powerful empire, and then the gods left and took the sun with them&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The cost of sorcery&lt;/strong&gt; - The people turned to sorcery to replace the stolen sun, but failed horribly, creating the Breach&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The subterranean exodus&lt;/strong&gt; - Out comes an army of horrors called the Ashen Horde, forcing humanity underground&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The return to surface&lt;/strong&gt; - Decades later humanity reconquered the surface with the Golden Host and built seven cities&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;By structuring the four epochs this way and refraining from writing tons of history about each, I left enough blanks for my players to fill with their own imagination. For example:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Why did the gods leave?&lt;/li&gt;
-&lt;li&gt;Did the gods steal the sun with malicious intent?&lt;/li&gt;
-&lt;li&gt;How did the people know about sorcery back then?&lt;/li&gt;
-&lt;li&gt;What exactly did they do to fuck up and create the Breach?&lt;/li&gt;
-&lt;li&gt;Where did humanity lived when driven underground?&lt;/li&gt;
-&lt;li&gt;What did they eat and how did they survive underground?&lt;/li&gt;
-&lt;li&gt;What is the Golden Host and how did it formed?&lt;/li&gt;
-&lt;li&gt;How did the people reclaimed the surface?&lt;/li&gt;
-&lt;li&gt;How and why did the seven cities get built?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Playing a ton of &lt;a href=&#34;http://www.failbettergames.com/sunless/&#34;&gt;Sunless Sea&lt;/a&gt; (&lt;em&gt;note: Obsidian World was not inspired by Sunless Sea. While the premise of these two settings are similar, the details are vastly different&lt;/em&gt;) taught me a lot of things, and one of them is &amp;ldquo;show, don&amp;rsquo;t tell&amp;rdquo;.&lt;/p&gt;
-
-&lt;h3 id=&#34;show-don-t-tell&#34;&gt;Show, don&amp;rsquo;t tell&lt;/h3&gt;
-
-&lt;p&gt;Here&amp;rsquo;s an example of that philosophy in action. In a city called Crasoa - which is basically a greco-roman inspired city - life revolves around an ancient coliseum where a glowing orb hovers over it, providing light and fire to all within the gigantic building.&lt;/p&gt;
-
-&lt;p&gt;Instead of writing down how Crasoa came to be, I created four factions each claiming to be the true stewards of the orb, with their own theories about the true nature of the glowing ball. Additionally, the orb is related to the Breach, and the sorcerers who created it.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s a quick overview:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;The Dawn Guards&lt;/strong&gt; - the militant outfit claims the Orb to be a shard of the sun, captured when their ancestors went to war with the gods. Now, they man the seven obelisks surrounding the Orb, defending it at all cost from those who seek to steal or damage it.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Alright with the Dawn Guards, we have an implication that there was a war between humans and gods &lt;em&gt;before&lt;/em&gt; the sun was stolen, and a glimpse of what the Orb is.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;The Scorched Ones&lt;/strong&gt; - the scorched ones are mystics who claimed to be direct descendants of a band of sorcerers who gave their lives to sealing the vanguard of the Ashen Horde in the Orb to buy time for humanity to flee into the underworld.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;With the Scorched Ones, the Orb takes a more sinister turn. It&amp;rsquo;s the prison of the horrors that drove humanity deep underground. What happens when the Orb is broken then?&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;The Crucible Priests&lt;/strong&gt; - the masonry guild who restored the ancient coliseum and built Crasoa around it claims the Orb to be part of a bigger machine buried underneath the coliseum, forged in the times of the old empire to harness the fires of the world&amp;rsquo;s belly for the ultimate creation: life itself.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Awww shiet, now we have a new implication, that there&amp;rsquo;s something underneath the coliseum that nobody knows about, and that the people of the old empire tried to create life. Could this be the reason why the gods left?&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;The Blood Dancers&lt;/strong&gt; - the band of gladiators notorious for their flamboyant savagery believes the Orb to be alive and thirsts for bloody spectacles. They slaughter their opponents in gruesome manners to appease the Orb, and when defeated, often tear their guts out in a final flourish for the Orb.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;What is a world without blood sacrifices and savagery? The Blood Dancers imply that the Orb is a sentient being, with a penchant for the macabre. What kind of stories can we tell with this?&lt;/p&gt;
-
-&lt;h3 id=&#34;plot-hooks-come-from-mysteries&#34;&gt;Plot hooks come from mysteries&lt;/h3&gt;
-
-&lt;p&gt;I found that developing a strict canon is not a good idea when building worlds meant to be altered, mutated and chopped up by your players. Rather than putting in long pages of history, I sought to give plot hooks and conflicts instead, with minimal but intriguing ties to the four epochs established as part of the canonical history of the world.&lt;/p&gt;
-
-&lt;p&gt;That is how I&amp;rsquo;ll write &lt;em&gt;Obsidian World&lt;/em&gt; - filled with mysteries and blanks, waiting for you to fill them up with your own ideas and creativity.&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
