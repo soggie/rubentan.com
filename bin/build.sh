@@ -11,4 +11,6 @@ echo "Building blog..."
 cd $SRC_DIR/blog
 hugo
 cd $SRC_DIR
-pwd
+
+## to come:
+# Build the server with gulp
