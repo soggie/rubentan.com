@@ -14,3 +14,5 @@ cd $SRC_DIR
 
 ## to come:
 # Build the server with gulp
+cd $SRC_DIR/main
+gulp

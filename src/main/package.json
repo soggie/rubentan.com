@@ -16,5 +16,7 @@
     "url": "https://github.com/soggie/rubentan.com/issues"
   },
   "homepage": "https://github.com/soggie/rubentan.com#readme",
-  "dependencies": {}
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
