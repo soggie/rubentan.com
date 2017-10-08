@@ -1,6 +1,6 @@
 +++
 title="Probability check"
-tags=["Design","RPG","Tabletop","Dice"]
+tags=["Game Design","RPG","Dice"]
 series=["Obsidian World"]
 date="2016-12-27"
 +++

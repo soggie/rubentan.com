@@ -1,6 +1,6 @@
 +++
 title="Let's talk about dice"
-tags=["Design","RPG","Tabletop","Dice"]
+tags=["Game Design","RPG","Dice"]
 series=["Obsidian World"]
 date="2016-12-25"
 +++

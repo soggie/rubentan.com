@@ -1,6 +1,6 @@
 +++
 title="Obsidian World Intro"
-tags=["Design","RPG","Tabletop","Worldbuilding"]
+tags=["Game Design","RPG","World"]
 series=["Obsidian World"]
 date="2016-12-24"
 +++

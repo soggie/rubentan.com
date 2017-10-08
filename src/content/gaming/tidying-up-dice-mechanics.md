@@ -1,6 +1,6 @@
 +++
 title="Tidying up dice mechanics"
-tags=["Design","RPG","Tabletop","Dice"]
+tags=["Game Design","RPG","Dice"]
 series=["Obsidian World"]
 date="2017-01-11"
 +++

@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruben Tan - my corner of the internet</title>
-    <link>http://rubentan.com/index.xml</link>
+    <link>http://rubentan.com/tags/game-design/index.xml</link>
     <description>Recent content on Ruben Tan - my corner of the internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rubentan.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rubentan.com/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Tidying up dice mechanics</title>
@@ -53,31 +52,6 @@
 &lt;p&gt;I&amp;rsquo;m honestly done with the dice system. I like it. 2d6 and success on a 7+ gives me enough room to apply modifiers to it, and effect die working the way it does fits the design goals I have for this game.&lt;/p&gt;
 
 &lt;p&gt;I can&amp;rsquo;t wait to start fleshing out the other parts of the system. A slight preview: the next topic about the game system will be something I call &lt;em&gt;keys&lt;/em&gt;. Stay tuned!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Journey into identity</title>
-      <link>http://rubentan.com/tech/journey-into-identity/</link>
-      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://rubentan.com/tech/journey-into-identity/</guid>
-      <description>&lt;p&gt;Just a placeholder for a series of article I&amp;rsquo;m going to write about identity, and how it will affect the digital world.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Identity is an often misunderstood concept in the modern world. Most people confuse identity with authorisation and authentication, and when you do this it becomes exponentially hard to explain what an identity solution is without getting questioned on irrelevant parts.&lt;/p&gt;
-
-&lt;h3 id=&#34;what-is-identity&#34;&gt;What is identity?&lt;/h3&gt;
-
-&lt;p&gt;The easiest way to understand the term &lt;strong&gt;identity&lt;/strong&gt; is to acknowledge that it is a category rather than a noun. There are many kinds of identity, some more important than others, and many of them have their own uses in different sectors.&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s break down identity to the following concepts:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Legal Identity&lt;/li&gt;
-&lt;li&gt;Social Identity&lt;/li&gt;
-&lt;li&gt;Personal Identity&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -397,58 +371,6 @@
 &lt;p&gt;I found that developing a strict canon is not a good idea when building worlds meant to be altered, mutated and chopped up by your players. Rather than putting in long pages of history, I sought to give plot hooks and conflicts instead, with minimal but intriguing ties to the four epochs established as part of the canonical history of the world.&lt;/p&gt;
 
 &lt;p&gt;That is how I&amp;rsquo;ll write &lt;em&gt;Obsidian World&lt;/em&gt; - filled with mysteries and blanks, waiting for you to fill them up with your own ideas and creativity.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Test Post Please Ignore</title>
-      <link>http://rubentan.com/tech/test-post-please-ignore/</link>
-      <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://rubentan.com/tech/test-post-please-ignore/</guid>
-      <description>&lt;p&gt;What better way to start my blog by writing &lt;em&gt;test post please ignore&lt;/em&gt;? Alright, strap in kids, time for a little reddit history.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;See, once upon a time, there was a post called &lt;em&gt;Test Post Please Ignore&lt;/em&gt; in reddit, and somehow got upvoted to the moon. No, that&amp;rsquo;d be an understatement. It got so many upvotes that it went straight to the sun, punched a hole through it, tore open a wormhole, and ended up in a parallel dimension stuck in the buttocks of an unfortunate elder god. Our universe is fucked because of this, but hey, it&amp;rsquo;ll be some time before the elder god arrives, but when it does, just remember:&lt;/p&gt;
-
-&lt;p&gt;It was reddit&amp;rsquo;s fault.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emotional sustenance - Part 1</title>
-      <link>http://rubentan.com/life/emotional-sustenance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rubentan.com/life/emotional-sustenance/</guid>
-      <description>&lt;p&gt;In this post I am going to talk about emotional sustenance and how different people find satisfaction in different methods.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;A while ago I went on an impromptu day escape with a friend, and on the drive back I had some quality time to ponder about life in general. The topic of emotional sustenance had since then stuck in my mind, and this post is mostly about the revelations I had in that short trip.&lt;/p&gt;
-
-&lt;p&gt;I find that emotional sustenance is something not many people talk about, despite it being just as important (if not more) as physical wellbeing. Perhaps the western world have a better grasp on this matter, here in south east asia it is mostly a subject that most would gladly ignore or avoid, even in close knit circles. Maybe I&amp;rsquo;m projecting, and if I am, this post is a perfect reflection of myself that the future me will be glad to reminiscent one fine day.&lt;/p&gt;
-
-&lt;p&gt;Different people find emotional sustenance in different ways. That much is certain. However, I&amp;rsquo;ve noticed two very distinct, and perhaps mutually exclusive, manners in which people heal their souls. Here I classify them as &lt;em&gt;experience-oriented&lt;/em&gt; and &lt;em&gt;connection-oriented&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;experience-oriented-sustenance&#34;&gt;Experience Oriented Sustenance&lt;/h3&gt;
-
-&lt;p&gt;Experience-oriented people find emotional sustenance from the things they do and feel with a companion. To them, events, places and things experienced together is far more valuable. They seek a partner to make stories with, where their memories would be filled with people instead of just themselves.&lt;/p&gt;
-
-&lt;p&gt;These kind of people would prefer to do things together with their companions. In fact, the activity itself &lt;em&gt;is&lt;/em&gt; the topic of conversation. It can be going to a party together, heading to the movies, or going on a road trip. Heck, even people watching counts, since the topic revolves around the act of observing others, instead of getting to know each other better.&lt;/p&gt;
-
-&lt;h3 id=&#34;connection-oriented-sustenance&#34;&gt;Connection Oriented Sustenance&lt;/h3&gt;
-
-&lt;p&gt;Connection-oriented people find emotional sustenance from connecting with their companion. To these people, a meet up is an exchange of views, ideologies or opinions. They either seek common ground, or contradictory perspectives relative to their own.&lt;/p&gt;
-
-&lt;p&gt;These kind of people would rather sit, chill and talk, perhaps over a drink or meal. They feel happy when they walk away with a deeper understanding of the other person, and most of the time they develop intimate relationships with the people in their circle.&lt;/p&gt;
-
-&lt;h3 id=&#34;it-s-a-spectrum&#34;&gt;It&amp;rsquo;s a spectrum&lt;/h3&gt;
-
-&lt;p&gt;Of course, I&amp;rsquo;m not saying that people are either one or the other. We switch between two different sustenance modes all the time. Some friends are there for experience-oriented sustenance, while others are there for connection-oriented sustenance.&lt;/p&gt;
-
-&lt;p&gt;I think by classifying it this way it makes it easier to recognise what kind of sustenance the other party needs, and adjust your expectations accordingly so both of you are in sync in what you want and are looking for.&lt;/p&gt;
-
-&lt;p&gt;Until next time, don&amp;rsquo;t forget to feed your emotions!&lt;/p&gt;</description>
     </item>
     
   </channel>

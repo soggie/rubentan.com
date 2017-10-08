@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruben Tan - my corner of the internet</title>
+    <link>http://rubentan.com/tags/world/index.xml</link>
+    <description>Recent content on Ruben Tan - my corner of the internet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://rubentan.com/tags/world/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Obsidian World Intro</title>
+      <link>http://rubentan.com/gaming/obsidian-world-intro/</link>
+      <pubDate>Sat, 24 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rubentan.com/gaming/obsidian-world-intro/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a while since I talked about the RPG (the tabletop kind) that I&amp;rsquo;m working on, and much have changed since then. Time for a re-introduction!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Obsidian World is a standalone pen-and-paper roleplaying game (RPG) set in the sunless world of Itheas where you struggle to inspire a despondent people to find hope in the gloom.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There, the elevator pitch. Let&amp;rsquo;s dive a little deeper into this. First of all, everything about the game revolves around one simple fact: &lt;strong&gt;there is no sun&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Obsidian World&lt;/em&gt; is primarily a worldbuilding exercise where I start with a simple premise (there is no sun) and work my way out from there. How did the sun vanish? What happens when you lose the sun? How do people survive in the new world? How would society look like?&lt;/p&gt;
+
+&lt;h3 id=&#34;no-creation-myth&#34;&gt;No creation myth&lt;/h3&gt;
+
+&lt;p&gt;One thing that I absolutely hated with worldbuilding is the idea of a creation myth. In the past, whever I sat down and built worlds, creation myth was always the starting point. But after many years of half baked ideas and unfinished worlds I figured there may be a better way of doing this.&lt;/p&gt;
+
+&lt;p&gt;So I asked myself: what&amp;rsquo;s the point of a creation myth? Do the gods that made the world (if they are indeed gods in the classical sense) matter in the current society? Does it make any difference if I swapped out one god for another, or changed the method of genesis?&lt;/p&gt;
+
+&lt;p&gt;And most important of all, will my players, who might not have any investment into the setting&amp;rsquo;s history itself, care?&lt;/p&gt;
+
+&lt;p&gt;Unfortunately from my playtestings, nope, most of them can&amp;rsquo;t even remember NPC names, let alone remember the pantheon of gods and their domains. Time for a better way to hook players into the setting other than dumping a history book on them.&lt;/p&gt;
+
+&lt;h3 id=&#34;a-world-of-mysteries&#34;&gt;A world of mysteries&lt;/h3&gt;
+
+&lt;p&gt;The driving factor behind the creation of &lt;strong&gt;Itheas&lt;/strong&gt; is that it must be a world that intrigues the curious cats. I want my players to be inspired by the lore, to be driven to want to know more about what happened. And the most effective tool to achieve that goal is through &lt;em&gt;mysteries&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Most people are naturally curious when given the right hooks. I don&amp;rsquo;t want my players to &lt;em&gt;know&lt;/em&gt; what the world is, and how it came about: I want them to form their own theories. To do this, I struck off the entire history I wrote for &lt;strong&gt;Itheas&lt;/strong&gt; and wrote a timeline around four epochs instead:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The theft of the sun&lt;/strong&gt; - Long ago gods descended upon Itheas and elevated the common men into a powerful empire, and then the gods left and took the sun with them&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The cost of sorcery&lt;/strong&gt; - The people turned to sorcery to replace the stolen sun, but failed horribly, creating the Breach&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The subterranean exodus&lt;/strong&gt; - Out comes an army of horrors called the Ashen Horde, forcing humanity underground&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The return to surface&lt;/strong&gt; - Decades later humanity reconquered the surface with the Golden Host and built seven cities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By structuring the four epochs this way and refraining from writing tons of history about each, I left enough blanks for my players to fill with their own imagination. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why did the gods leave?&lt;/li&gt;
+&lt;li&gt;Did the gods steal the sun with malicious intent?&lt;/li&gt;
+&lt;li&gt;How did the people know about sorcery back then?&lt;/li&gt;
+&lt;li&gt;What exactly did they do to fuck up and create the Breach?&lt;/li&gt;
+&lt;li&gt;Where did humanity lived when driven underground?&lt;/li&gt;
+&lt;li&gt;What did they eat and how did they survive underground?&lt;/li&gt;
+&lt;li&gt;What is the Golden Host and how did it formed?&lt;/li&gt;
+&lt;li&gt;How did the people reclaimed the surface?&lt;/li&gt;
+&lt;li&gt;How and why did the seven cities get built?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Playing a ton of &lt;a href=&#34;http://www.failbettergames.com/sunless/&#34;&gt;Sunless Sea&lt;/a&gt; (&lt;em&gt;note: Obsidian World was not inspired by Sunless Sea. While the premise of these two settings are similar, the details are vastly different&lt;/em&gt;) taught me a lot of things, and one of them is &amp;ldquo;show, don&amp;rsquo;t tell&amp;rdquo;.&lt;/p&gt;
+
+&lt;h3 id=&#34;show-don-t-tell&#34;&gt;Show, don&amp;rsquo;t tell&lt;/h3&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example of that philosophy in action. In a city called Crasoa - which is basically a greco-roman inspired city - life revolves around an ancient coliseum where a glowing orb hovers over it, providing light and fire to all within the gigantic building.&lt;/p&gt;
+
+&lt;p&gt;Instead of writing down how Crasoa came to be, I created four factions each claiming to be the true stewards of the orb, with their own theories about the true nature of the glowing ball. Additionally, the orb is related to the Breach, and the sorcerers who created it.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a quick overview:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;The Dawn Guards&lt;/strong&gt; - the militant outfit claims the Orb to be a shard of the sun, captured when their ancestors went to war with the gods. Now, they man the seven obelisks surrounding the Orb, defending it at all cost from those who seek to steal or damage it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Alright with the Dawn Guards, we have an implication that there was a war between humans and gods &lt;em&gt;before&lt;/em&gt; the sun was stolen, and a glimpse of what the Orb is.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;The Scorched Ones&lt;/strong&gt; - the scorched ones are mystics who claimed to be direct descendants of a band of sorcerers who gave their lives to sealing the vanguard of the Ashen Horde in the Orb to buy time for humanity to flee into the underworld.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;With the Scorched Ones, the Orb takes a more sinister turn. It&amp;rsquo;s the prison of the horrors that drove humanity deep underground. What happens when the Orb is broken then?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;The Crucible Priests&lt;/strong&gt; - the masonry guild who restored the ancient coliseum and built Crasoa around it claims the Orb to be part of a bigger machine buried underneath the coliseum, forged in the times of the old empire to harness the fires of the world&amp;rsquo;s belly for the ultimate creation: life itself.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Awww shiet, now we have a new implication, that there&amp;rsquo;s something underneath the coliseum that nobody knows about, and that the people of the old empire tried to create life. Could this be the reason why the gods left?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;The Blood Dancers&lt;/strong&gt; - the band of gladiators notorious for their flamboyant savagery believes the Orb to be alive and thirsts for bloody spectacles. They slaughter their opponents in gruesome manners to appease the Orb, and when defeated, often tear their guts out in a final flourish for the Orb.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;What is a world without blood sacrifices and savagery? The Blood Dancers imply that the Orb is a sentient being, with a penchant for the macabre. What kind of stories can we tell with this?&lt;/p&gt;
+
+&lt;h3 id=&#34;plot-hooks-come-from-mysteries&#34;&gt;Plot hooks come from mysteries&lt;/h3&gt;
+
+&lt;p&gt;I found that developing a strict canon is not a good idea when building worlds meant to be altered, mutated and chopped up by your players. Rather than putting in long pages of history, I sought to give plot hooks and conflicts instead, with minimal but intriguing ties to the four epochs established as part of the canonical history of the world.&lt;/p&gt;
+
+&lt;p&gt;That is how I&amp;rsquo;ll write &lt;em&gt;Obsidian World&lt;/em&gt; - filled with mysteries and blanks, waiting for you to fill them up with your own ideas and creativity.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
