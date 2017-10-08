@@ -2,7 +2,7 @@
 title="Emotional sustenance - Part 1"
 tags=["Life"]
 series=["As I see it"]
-date="2017-10-8"
+date="2017-10-08"
 +++
 
 In this post I am going to talk about emotional sustenance and how different people find satisfaction in different methods.
