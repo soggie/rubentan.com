@@ -6,33 +6,8 @@
     <description>Recent content in Tech-rsses on Ruben Tan - my corner of the internet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rubentan.com/tech/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Journey into identity</title>
-      <link>http://rubentan.com/tech/journey-into-identity/</link>
-      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://rubentan.com/tech/journey-into-identity/</guid>
-      <description>&lt;p&gt;Just a placeholder for a series of article I&amp;rsquo;m going to write about identity, and how it will affect the digital world.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Identity is an often misunderstood concept in the modern world. Most people confuse identity with authorisation and authentication, and when you do this it becomes exponentially hard to explain what an identity solution is without getting questioned on irrelevant parts.&lt;/p&gt;
-
-&lt;h3 id=&#34;what-is-identity&#34;&gt;What is identity?&lt;/h3&gt;
-
-&lt;p&gt;The easiest way to understand the term &lt;strong&gt;identity&lt;/strong&gt; is to acknowledge that it is a category rather than a noun. There are many kinds of identity, some more important than others, and many of them have their own uses in different sectors.&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s break down identity to the following concepts:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Legal Identity&lt;/li&gt;
-&lt;li&gt;Social Identity&lt;/li&gt;
-&lt;li&gt;Personal Identity&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
     
     <item>
       <title>Test Post Please Ignore</title>
